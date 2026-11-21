@@ -1,0 +1,38 @@
+{
+  "summary": "A student-friendly cafe near RNS Institute of Technology in Bengaluru. It can offer a cozy place for studying and coffee. The area has few competitors and good reviews.",
+  "competition": {
+    "count": 3,
+    "average_rating": 4.27,
+    "notes": "There are 3 cafes nearby. The average rating is 4.27 out of 5."
+  },
+  "customer_feedback": [
+    "Complaint: Review details were not available.",
+    "Praise: Review details were not available.",
+    "Complaint: Review details were not available."
+  ],
+  "gaps": [],
+  "score": 7,
+  "score_reason": "Low competition and good ratings suggest a good chance for a new cafe.",
+  "sources": [
+    {
+      "title": "Example Cafe One",
+      "link": "https://example.com/cafe-one"
+    },
+    {
+      "title": "Example Cafe Two",
+      "link": "https://example.com/cafe-two"
+    },
+    {
+      "title": "Example Cafe Three",
+      "link": "https://example.com/cafe-three"
+    },
+    {
+      "title": "Example page: what students look for in a cafe",
+      "link": "https://example.com/blog-1"
+    },
+    {
+      "title": "Example news: cafes see more student visitors",
+      "link": "https://example.com/news-1"
+    }
+  ]
+}

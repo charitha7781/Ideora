@@ -1,4 +1,5 @@
 streamlit
 google-search-results
+google-genai
 python-dotenv
-# Role 3: add the package for your chosen AI model API here
+requests
