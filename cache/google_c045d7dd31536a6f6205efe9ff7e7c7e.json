@@ -1,0 +1,512 @@
+{
+    "search_metadata": {
+        "id": "6b01437fb77a0a2867b19865",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/oJbGKGl4njACxhx8IJnWX6qBnU4gr2pBJt4haqR-2nk/6b01437fb77a0a2867b19865.json",
+        "markdown_endpoint": "https://serpapi.com/searches/oJbGKGl4njACxhx8IJnWX6qBnU4gr2pBJt4haqR-2nk/6b01437fb77a0a2867b19865.md",
+        "pixel_position_endpoint": "https://serpapi.com/searches/oJbGKGl4njACxhx8IJnWX6qBnU4gr2pBJt4haqR-2nk/6b01437fb77a0a2867b19865.json_with_pixel_position",
+        "created_at": "2026-11-21 07:08:47 UTC",
+        "processed_at": "2026-11-21 07:08:47 UTC",
+        "google_url": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&oq=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/oJbGKGl4njACxhx8IJnWX6qBnU4gr2pBJt4haqR-2nk/6b01437fb77a0a2867b19865.html",
+        "total_time_taken": 0.83
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "student-friendly cafe near RNS Institute of Technology, Bengaluru",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "student-friendly cafe near RNS Institute of Technology, Bengaluru",
+        "total_results": 98,
+        "time_taken_displayed": 0.49,
+        "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+        "spelling_fix": "student-friendly cafe near RNS Institute of Technology, Bangalore"
+    },
+    "local_map": {
+        "link": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&udm=local&lsack=f0MBa8bwOI_W5NoPm9-WcA&sa=X&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QtgN6BAgmEAM",
+        "image": "https://serpapi.com/searches/6b01437fb77a0a2867b19865/images/HE3RIj9cLV_tPmJP6OOh5A.png",
+        "gps_coordinates": {
+            "latitude": 12.912715798312236,
+            "longitude": 77.51266479492188
+        }
+    },
+    "local_results": {
+        "places": [
+            {
+                "position": 1,
+                "title": "Naughtee Cafe - RR Nagar",
+                "type": "Cafe",
+                "rating": 4.7,
+                "reviews": 272,
+                "price": "₹200–400",
+                "description": "\"Amazing food, worth every penny, they are very student friendly!\"",
+                "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC8j1V8NE7aqGyREHRHQrwlYCVMNTJAzx1DvWNQpyZSjv1NF_T5q9KLOCCNTK3pOapClZIne4EkqPIElc2Ym0TM0bI_I4-SZwE5aA36hGg7EEdqliIW5NvIKFYEQEJdrQ5oUNdJQwc_7ZG=w92-h92-n-k-no",
+                "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLeC8j1V8NE7aqGyREHRHQrwlYCVMNTJAzx1DvWNQpyZSjv1NF_T5q9KLOCCNTK3pOapClZIne4EkqPIElc2Ym0TM0bI_I4-SZwE5aA36hGg7EEdqliIW5NvIKFYEQEJdrQ5oUNdJQwc_7ZG=w1000-h1000-c-n",
+                "links": {
+                    "phone": "tel:+91 96069 96747",
+                    "website": "https://naughteecafe.in/"
+                },
+                "place_id": "13533894968232046066",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=13533894968232046066&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru",
+                "provider_id": "/g/11lnss3hv_",
+                "gps_coordinates": {
+                    "latitude": 12.902881,
+                    "longitude": 77.519051
+                },
+                "address": "9, Uttarahalli Main Road next to RNSIT College Channasandra, RR Nagar, Kengeri, Bengaluru, Karnataka 560098, India",
+                "hours": "Open · Closes 10:30 PM",
+                "phone": "+91 96069 96747"
+            },
+            {
+                "position": 2,
+                "title": "Srashtea Cafe",
+                "type": "Cafe",
+                "rating": 4.6,
+                "reviews": 388,
+                "price": "₹200–400",
+                "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0HK4X3JB7jf_886zBhCZTNVzIrqZtmtzEXtahYmwYFP2q-Se3HgKhy9mMTCsx5DU7Dw8rdRWchLq4qI75fC1YNSkg3C9U7XvN_tfMjttNULKtTSh8ZCOMVLvU5kLCiJpqSfww=w92-h92-n-k-no",
+                "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0HK4X3JB7jf_886zBhCZTNVzIrqZtmtzEXtahYmwYFP2q-Se3HgKhy9mMTCsx5DU7Dw8rdRWchLq4qI75fC1YNSkg3C9U7XvN_tfMjttNULKtTSh8ZCOMVLvU5kLCiJpqSfww=w1000-h1000-c-n",
+                "service_options": {
+                    "dine_in": true,
+                    "takeout": true,
+                    "delivery": true
+                },
+                "links": {
+                    "phone": "tel:+91 99868 22424"
+                },
+                "place_id": "8721732578044708815",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=8721732578044708815&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru",
+                "provider_id": "/g/11twkf64b5",
+                "gps_coordinates": {
+                    "latitude": 12.902858,
+                    "longitude": 77.519146
+                },
+                "address": "Opp to RNSIT, Channasandra, Banashankari 5th Stage, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098, India",
+                "hours": "Open · Closes 9 PM",
+                "phone": "+91 99868 22424"
+            },
+            {
+                "position": 3,
+                "title": "Suto Cafe RR Nagar",
+                "type": "Coffee shop",
+                "rating": 4.8,
+                "reviews": 177,
+                "price": "₹200–400",
+                "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGQY8ZY0MhGeFGLUZjmazqBfCt0kB9-fvVkGaRPp-w02CYhcuo53MDYAjJBE_AF7p8XxYxo02sPUdrCS9QKKkPcA6LPkK6XUf1QyOw-RXyFx9yA13xUYsNs12aavvM1vl8ifsQiw1nKOM=w92-h92-n-k-no",
+                "thumbnail_large": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGQY8ZY0MhGeFGLUZjmazqBfCt0kB9-fvVkGaRPp-w02CYhcuo53MDYAjJBE_AF7p8XxYxo02sPUdrCS9QKKkPcA6LPkK6XUf1QyOw-RXyFx9yA13xUYsNs12aavvM1vl8ifsQiw1nKOM=w1000-h1000-c-n",
+                "service_options": {
+                    "dine_in": true,
+                    "drive_through": true,
+                    "delivery": true
+                },
+                "place_id": "18442456156630387315",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ludocid=18442456156630387315&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru",
+                "provider_id": "/g/11msfyxkd0",
+                "gps_coordinates": {
+                    "latitude": 12.911442,
+                    "longitude": 77.525759
+                },
+                "address": "326, 60 Feet Rd, 3rd Block, Stage 4, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098, India",
+                "hours": "Open · Closes 11 PM"
+            }
+        ],
+        "more_locations_link": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&udm=local&lsack=f0MBa8bwOI_W5NoPm9-WcA&sa=X&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QjGp6BAgpEAE"
+    },
+    "related_questions": [
+        {
+            "question": "How can I make my cafe unique?",
+            "type": "ai_overview",
+            "page_token": "fyr6S3icHdBfboIwHADgeBkftUDioolZAitIF2AUKH9eTGlBlJ_QaTOcL0t2lj3tMDvATrNk3xG-zy84Dv3vLO-0VtfNcjlN0-IwjgdoFmI8L_n1fRBLwQFqLvrN6mFlPLZii69X2xknO84oLkFCnlGSZJ0jMNW8R6aA6oUnhkNNqgqk_NBlPUsJFq4d1h6sQqwCbsAlyisUoHUsU9tPUt8IrcqWWN6kJe4VcmlhUlKana4GWtGs20VPpGige6-xbnMvuNcMlDC7hKNS8wGcuIBjtiNJjNYk8MhzM4Sq7te8SuFUw2GSBXEjBl5pxol7Lqc0I13kEStF0LI7i2rD1lFiFCXC3O9dPz3ZbohYKHeuJZm6MbZeBbl_awqiJK4cisJXWoz3wBLzVrxtrfl_2HbfnvVGXcbDt7g0XDdyz_VPP3M-_gDw_34j",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fyr6S3icHdBfboIwHADgeBkftUDioolZAitIF2AUKH9eTGlBlJ_QaTOcL0t2lj3tMDvATrNk3xG-zy84Dv3vLO-0VtfNcjlN0-IwjgdoFmI8L_n1fRBLwQFqLvrN6mFlPLZii69X2xknO84oLkFCnlGSZJ0jMNW8R6aA6oUnhkNNqgqk_NBlPUsJFq4d1h6sQqwCbsAlyisUoHUsU9tPUt8IrcqWWN6kJe4VcmlhUlKana4GWtGs20VPpGige6-xbnMvuNcMlDC7hKNS8wGcuIBjtiNJjNYk8MhzM4Sq7te8SuFUw2GSBXEjBl5pxol7Lqc0I13kEStF0LI7i2rD1lFiFCXC3O9dPz3ZbohYKHeuJZm6MbZeBbl_awqiJK4cisJXWoz3wBLzVrxtrfl_2HbfnvVGXcbDt7g0XDdyz_VPP3M-_gDw_34j",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIG1ha2UgbXkgY2FmZSB1bmlxdWU/IiwibGsiOiJHaDFvYjNjZ1kyRnVJR2tnYldGclpTQnRlU0JqWVdabElIVnVhWEYxWlEiLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIG1ha2UgbXkgY2FmZSB1bmlxdWU%2FIiwibGsiOiJHaDFvYjNjZ1kyRnVJR2tnYldGclpTQnRlU0JqWVdabElIVnVhWEYxWlEiLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0%3D"
+        },
+        {
+            "question": "Where can I sit and work in Bangalore?",
+            "type": "ai_overview",
+            "page_token": "vfNntnicHdBRbpswAABQ9TL9bAyMTIkUTSMzLGyYYhsD_qkcO-DUBtLGKQk_k3aWfe0wO8BOs2oXeB_v5y97HMzfO6edO53Xi8U0TQ_dOHb28CDHfiHOt0EupLB2L6RZLz8uvU-t3MALjLYvu6goMWysslWttDKWKKDaGlwbTBnBtgiJwREux7A0MMhm7VNgNR7Si4Bm4p6deYLOKE4fC8ZfMExz-Wwm2oMbM_obsRrliZpVDxwZ4u8Ujn7mq0v2BfOmRj6K4ziP3_0qDIsqLXmlvANTg6Q7P4-jpfqKH5tAXjN_9byfPwMBNSXg1FZ1-m6yOWec5KwEApyu3NvdBEMRAnrCDA9Q8z6D3rah-qjAKq096dF-VeypccxHUXJMIwI_TJiqhJbuQqCFaNYZSUJCA0Uz2M20thGnnV_aVXDfyrdNcP9_c_PU9m59eh273_L1INxBPQn3x9xtf_wDgJuIBw",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vfNntnicHdBRbpswAABQ9TL9bAyMTIkUTSMzLGyYYhsD_qkcO-DUBtLGKQk_k3aWfe0wO8BOs2oXeB_v5y97HMzfO6edO53Xi8U0TQ_dOHb28CDHfiHOt0EupLB2L6RZLz8uvU-t3MALjLYvu6goMWysslWttDKWKKDaGlwbTBnBtgiJwREux7A0MMhm7VNgNR7Si4Bm4p6deYLOKE4fC8ZfMExz-Wwm2oMbM_obsRrliZpVDxwZ4u8Ujn7mq0v2BfOmRj6K4ziP3_0qDIsqLXmlvANTg6Q7P4-jpfqKH5tAXjN_9byfPwMBNSXg1FZ1-m6yOWec5KwEApyu3NvdBEMRAnrCDA9Q8z6D3rah-qjAKq096dF-VeypccxHUXJMIwI_TJiqhJbuQqCFaNYZSUJCA0Uz2M20thGnnV_aVXDfyrdNcP9_c_PU9m59eh273_L1INxBPQn3x9xtf_wDgJuIBw",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiV2hlcmUgY2FuIEkgc2l0IGFuZCB3b3JrIGluIEJhbmdhbG9yZT8iLCJsayI6IkdpVjNhR1Z5WlNCallXNGdhU0J6YVhRZ1lXNWtJSGR2Y21zZ2FXNGdZbUZ1WjJGc2IzSmwiLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiV2hlcmUgY2FuIEkgc2l0IGFuZCB3b3JrIGluIEJhbmdhbG9yZT8iLCJsayI6IkdpVjNhR1Z5WlNCallXNGdhU0J6YVhRZ1lXNWtJSGR2Y21zZ2FXNGdZbUZ1WjJGc2IzSmwiLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0%3D"
+        },
+        {
+            "question": "Is it okay to sit in a cafe for 3 hours?",
+            "type": "ai_overview",
+            "page_token": "UmYaynicHdBRjqIwAADQzGXmc7SUdaOJmQhpVZQaC22hPxNsQbRFUBlh-Jlkz7Jfe5g9wJ5mJ3OE9379tqeL-ffUlm3b3GejUdd1L8e6Ptr8RdXVKLt_XNRIZdYeMmVmk58T8FqoOXpHnn9de3tGUWq1TS8LcODNlVSyiDAGmSW3rVh3OyRhZNOBDpznKxpIR9Y5lpYZNdAzuWro1fuxrHex6XYJ3ibAitCRP0TVr5Jx2BIbRBouYIiamzBHmK0o1xfU5kuyIagUQrhuzuWWO9hn2JsojmAK8GOb0F1o8SblgdVs6jK7AGyM3-VAN5kPcL5sSmF6qBhfR8Y-ROxVBFA3dgKmBaaolFWIgJ_G5UmPp0ECFIir6f4Qm5Y7xFueAi9CbkdjjRPn3mvEe52UmUzYECPQf1nPqdHF_kwGaix8LtRjDp-_N-dvRdXOmlt9_KNuedbm-i1r_5on__M_77yH_A",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UmYaynicHdBRjqIwAADQzGXmc7SUdaOJmQhpVZQaC22hPxNsQbRFUBlh-Jlkz7Jfe5g9wJ5mJ3OE9379tqeL-ffUlm3b3GejUdd1L8e6Ptr8RdXVKLt_XNRIZdYeMmVmk58T8FqoOXpHnn9de3tGUWq1TS8LcODNlVSyiDAGmSW3rVh3OyRhZNOBDpznKxpIR9Y5lpYZNdAzuWro1fuxrHex6XYJ3ibAitCRP0TVr5Jx2BIbRBouYIiamzBHmK0o1xfU5kuyIagUQrhuzuWWO9hn2JsojmAK8GOb0F1o8SblgdVs6jK7AGyM3-VAN5kPcL5sSmF6qBhfR8Y-ROxVBFA3dgKmBaaolFWIgJ_G5UmPp0ECFIir6f4Qm5Y7xFueAi9CbkdjjRPn3mvEe52UmUzYECPQf1nPqdHF_kwGaix8LtRjDp-_N-dvRdXOmlt9_KNuedbm-i1r_5on__M_77yH_A",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiSXMgaXQgb2theSB0byBzaXQgaW4gYSBjYWZlIGZvciAzIGhvdXJzPyIsImxrIjoiR2g5allXNGdhU0J6YVhRZ2FXNGdZU0JqWVdabElHWnZjaUF6SUdodmRYSnoiLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiSXMgaXQgb2theSB0byBzaXQgaW4gYSBjYWZlIGZvciAzIGhvdXJzPyIsImxrIjoiR2g5allXNGdhU0J6YVhRZ2FXNGdZU0JqWVdabElHWnZjaUF6SUdodmRYSnoiLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0%3D"
+        },
+        {
+            "question": "What is cafe hopping?",
+            "type": "ai_overview",
+            "page_token": "Naw4I3icHdBRboIwAIDheBkfJ8h008QsQQtKNggtlNIXUwrYSStEOit7WbKz7GmH2QF2mpkd4H_4_s8v-XpqfkeZ0Lrrl5OJMebu0LYHWd3xVk1YP5z4hDMpC8ab5fxhbj_VfAX63l23xo1TCHJZylwuzMsWT1PFrdAS1xcZimSw188E9sW2A_g9nmUARnETdljBuiTYQQp3sUoNnspjCMpzemvClAJ6CnaRv9iksr1HwGNoA6eZH7whp7uENoTUhmt-pCEd7Au1ZjoiuGPZYlbgfIgdN6lIaYos2Fa-0EVzf6VYGEZyXfgSIEsoZF1F1hjkqdwkaSAiP3ASS9b4HUeF7eoI2SS3ANs13i45ut7NQ6pEDlQ9zqjnXRMSksijAm5xXNgBSoF0EQDjml9Wzvh_2GpfK73szu3hm58rpqtyz_RPM1p__AFRan9v",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Naw4I3icHdBRboIwAIDheBkfJ8h008QsQQtKNggtlNIXUwrYSStEOit7WbKz7GmH2QF2mpkd4H_4_s8v-XpqfkeZ0Lrrl5OJMebu0LYHWd3xVk1YP5z4hDMpC8ab5fxhbj_VfAX63l23xo1TCHJZylwuzMsWT1PFrdAS1xcZimSw188E9sW2A_g9nmUARnETdljBuiTYQQp3sUoNnspjCMpzemvClAJ6CnaRv9iksr1HwGNoA6eZH7whp7uENoTUhmt-pCEd7Au1ZjoiuGPZYlbgfIgdN6lIaYos2Fa-0EVzf6VYGEZyXfgSIEsoZF1F1hjkqdwkaSAiP3ASS9b4HUeF7eoI2SS3ANs13i45ut7NQ6pEDlQ9zqjnXRMSksijAm5xXNgBSoF0EQDjml9Wzvh_2GpfK73szu3hm58rpqtyz_RPM1p__AFRan9v",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjYWZlIGhvcHBpbmc/IiwibGsiOiJHaFIzYUdGMElHbHpJR05oWm1VZ2FHOXdjR2x1WnciLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYU1EZG5WWFpLUVdoRVRqZEJTbVZYTW5kSVZHRjNXQzFLWnpGVlNGSTNVVTkxUVVwRWFYaFVWMTg0Y1ZwVFJXMDNXbWswV1RoZlREUXpZV2hOTm5KeWFFWkVTUzFXU2treFUzUm9kVVJYVERCVmFqWnhjelZ5ZWt4VFVSSVdaakJOUW1FNFluZFBTVjlYTlU1dlVHMDVMVmRqUVJvaVFVaE9NRVUzU0RoWWFERk1OMlpNTjA0MFlsaFBNVmcxVERSYU1ERnBlR1ZtZHciLCJmY3YiOiIzIiwiZWkiOiJmME1CYThid09JX1c1Tm9QbTktV2NBIiwicWMiOiJDa0J6ZEhWa1pXNTBJR1p5YVdWdVpHeDVJR05oWm1VZ2JtVmhjaUJ5Ym5NZ2FXNXpkR2wwZFhSbElHOW1JSFJsWTJodWIyeHZaM2tnWW1WdVoyRnNkWEoxRUFCOWwtSUFQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjYWZlIGhvcHBpbmc%2FIiwibGsiOiJHaFIzYUdGMElHbHpJR05oWm1VZ2FHOXdjR2x1WnciLCJicyI6ImMyM05Qdy1DTUJDSDRiamU1S0FPSk1vNS1HY3p3UTlBZEpMQndZbjUxRUlicEljdHBPSGIyd2pxSU9QbGZmSTdPTURpeEE1dnBESEJrZ3FCWmV1dlRHQ2oxYk1SY1JRR2M5a0xOU1RnQXV0VUNpUDZFYXRxSkgxSHg2WkFwZkZJT3FjSEd6LTFDVmJ1SzlXZnZINGtuR0diV1BTWkMycXg1amYxZ3JySEdSdmNvLVRHMkRoYUJ1RnZidERBRHFhcEpGOXQxeVJYbGRKNUhNMkNpUnNJNDlFTCIsImlkIjoiZmNfZjBNQmE4YndPSV9XNU5vUG05LVdjQV82In0%3D"
+        }
+    ],
+    "ai_overview": {
+        "page_token": "sucFrniczVbbcqpIFK15n98YX0wUBRNNFXWqQRS8Bi8x8YWCpm1RoBVQQl6mar5lnuZjzgecr5kGvOHRJCcvM7uEpje7d6_u3ovlX3_blrv88bs2D4KV_1AshmFYwIRgGxUgcYq6H7mwOCO278H5N59sPIh4OPeIgwrEyKUOy9y5ctGWZ3PQ55kcsvgZ0xX0qhH2FW1S6ZFHp3Y7gSCXpOQ1Q_fRgs74uvCLWpHeln-wddop-AXkFkojRKbTatAfh4UyU2YL_aLu0ADw35oAsKQCIKpAfDdOSX6fMFGKk4LlmZvOIcUtPniaaXjsUlIvuZJSwulgDLCaQAagDh5fF2912m3uM7bTWa6bkIzcW-eYPoWlfm59GUvmFtQzx3sQLlmy841M74MRFK1wOpWIgSBz2dGZvRAzedMVJ-vlgFKVm6Jybe9PTMK47qgCGH4cSo20264BGDpt0cS0zpmi4dGmVLTgHCYPnh-XvziqMUR-QhyLOFB3S-ygAxWrK_Z6Zu_xTt7iIjRonE10E5naXGO-Jf1SuVRhaux99SbhHfQPxPNPiVcyyLAtMY9kSgqdglDas07KYD0vfVVRLlY73m36T2V2SKAmZXhiQjZMzZ7neNcqwBRTKmRsZSY7eXSgF1DHDfX8aFNw4DrrLuDFcdEkCBs7CGdopSYQpCOgLHD5UtZ4QnzAchio7oMlEO6ewiPks30WwRAn_l2KevYljVZVS6ILo6wThHBAo4EYY4PxovaLHYtAsg65s1uAhX2yU9yZnhJ_CwQgduOv4mpE4rOx0sXEl7A7N3F-RL8bL135Avn0aswvv_uMNT4O2Zmy59kZbTJ0WzigHSqbftlodiNtUd_2FoHjlWVviy_TizjGLwgb_N8TcC97493IdwiofIqAVPbwr8peO_WurhHQSQl4UfbkK7L3MwEFYXBCwJ3shVdl70sEjCv7HQJmqzdDwP2rMwIOrhAwkb1TArb2sneRgEfZ2xPwq7LX-ILsJTREaZPVwM0CX9fCaX_Yh2MBBL6p3JefYdWuIqXCmmX5Yy2cOcGDo5v2jWaZD0K5FUTmjUYd5AGZuTXvBxsTucHtzLOQa9pRHuozlHeR7uUHvWFecf3ACjYBypNZfoTg3CU2wdFNXkAu1u2Nt8k5tkd4Rufmy0Yw0hebhlW750KsDYK7Rfmp8wi5zWhSEZvNKATbN9jB0Xa2ei2_tCaLbWsdggr72u_jZ-V25TE9FLyMGpz5RFqv0d2bVfWndUY1plNDe6qtZ0t5FE09VfcnXbWn2G_yc3XVtjvd9npdHjp3ZhBxvc2Lo3DTCU5w-bwMwvUYKc-s1M05HuTp4XMY9FQwAUAHjRC0aPG1gTBY07ZDK8wgAlDlF6DWMb0ILeucD3UN-VseGbUKO-PYSql6R_-csDkHB9GKrzE53_X40j_QQ3pAj0EPvi9_E__8F45Simo",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sucFrniczVbbcqpIFK15n98YX0wUBRNNFXWqQRS8Bi8x8YWCpm1RoBVQQl6mar5lnuZjzgecr5kGvOHRJCcvM7uEpje7d6_u3ovlX3_blrv88bs2D4KV_1AshmFYwIRgGxUgcYq6H7mwOCO278H5N59sPIh4OPeIgwrEyKUOy9y5ctGWZ3PQ55kcsvgZ0xX0qhH2FW1S6ZFHp3Y7gSCXpOQ1Q_fRgs74uvCLWpHeln-wddop-AXkFkojRKbTatAfh4UyU2YL_aLu0ADw35oAsKQCIKpAfDdOSX6fMFGKk4LlmZvOIcUtPniaaXjsUlIvuZJSwulgDLCaQAagDh5fF2912m3uM7bTWa6bkIzcW-eYPoWlfm59GUvmFtQzx3sQLlmy841M74MRFK1wOpWIgSBz2dGZvRAzedMVJ-vlgFKVm6Jybe9PTMK47qgCGH4cSo20264BGDpt0cS0zpmi4dGmVLTgHCYPnh-XvziqMUR-QhyLOFB3S-ygAxWrK_Z6Zu_xTt7iIjRonE10E5naXGO-Jf1SuVRhaux99SbhHfQPxPNPiVcyyLAtMY9kSgqdglDas07KYD0vfVVRLlY73m36T2V2SKAmZXhiQjZMzZ7neNcqwBRTKmRsZSY7eXSgF1DHDfX8aFNw4DrrLuDFcdEkCBs7CGdopSYQpCOgLHD5UtZ4QnzAchio7oMlEO6ewiPks30WwRAn_l2KevYljVZVS6ILo6wThHBAo4EYY4PxovaLHYtAsg65s1uAhX2yU9yZnhJ_CwQgduOv4mpE4rOx0sXEl7A7N3F-RL8bL135Avn0aswvv_uMNT4O2Zmy59kZbTJ0WzigHSqbftlodiNtUd_2FoHjlWVviy_TizjGLwgb_N8TcC97493IdwiofIqAVPbwr8peO_WurhHQSQl4UfbkK7L3MwEFYXBCwJ3shVdl70sEjCv7HQJmqzdDwP2rMwIOrhAwkb1TArb2sneRgEfZ2xPwq7LX-ILsJTREaZPVwM0CX9fCaX_Yh2MBBL6p3JefYdWuIqXCmmX5Yy2cOcGDo5v2jWaZD0K5FUTmjUYd5AGZuTXvBxsTucHtzLOQa9pRHuozlHeR7uUHvWFecf3ACjYBypNZfoTg3CU2wdFNXkAu1u2Nt8k5tkd4Rufmy0Yw0hebhlW750KsDYK7Rfmp8wi5zWhSEZvNKATbN9jB0Xa2ei2_tCaLbWsdggr72u_jZ-V25TE9FLyMGpz5RFqv0d2bVfWndUY1plNDe6qtZ0t5FE09VfcnXbWn2G_yc3XVtjvd9npdHjp3ZhBxvc2Lo3DTCU5w-bwMwvUYKc-s1M05HuTp4XMY9FQwAUAHjRC0aPG1gTBY07ZDK8wgAlDlF6DWMb0ILeucD3UN-VseGbUKO-PYSql6R_-csDkHB9GKrzE53_X40j_QQ3pAj0EPvi9_E__8F45Simo"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Best Cafes Near You in Rajarajeshwari Nagar, Bangalore",
+            "link": "https://magicpin.in/india/Bangalore/Rajarajeshwari-Nagar/Cafe/?srsltid=AYCX9vIjZnPCao1CjdJ5Dfpryo--BDILRFh-L6n6cTCo5zE-mcvDDvS-",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEBxCJF17R5BE8lcJ4hKAM5zup89szaRcovova0ZRfE39TNlPOmWhLkjLdaS1O8hdittT1IKZP-w39mk-6Gq3UcZN3kRm88XY75JAM-4E8tgSk1TriJtH02DHNj9DWdT0wyclMlNU-z76k6uW3VYdj3pFuAu5EUalQXxpK5GabyV3WSHhj2N43s6GDik0e53P0G9Sas3VDiES1mvrXoUSkeQNsGsbCu8WTChpLusf3Jn5ZdrTbhq5kJHJ32yA&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECD8QAQ&uoh=1",
+            "displayed_link": "https://magicpin.in › ... › Rajarajeshwari Nagar",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEzqJXXpIHPuJ3jpInTqJXXrJXbqJnXpIHPpHnLqJXT____pGXLoBWrqK3r3u9L85_D98Pb-_v7rO4L--PvuXJTwcaLtTIz72ebxgqz5y932rMf0m71dI1pdAAAAC3RSTlMAU9EOsG8gOun3j9KEG_YAAAFxSURBVCiRdZLZmoIwDIURUVqzdN95_-ecoDijfk6uoH9PTpJmmp5xvSxKa7VcrtNnXG8KkUNgRHX7wKtCzqZaW01mVOsrO2lsFiA65wFqQ3160Wk0AL0V5tI6wKA_7XnmATYj7Z6kJcem5_MBL9jAJuJt99yQkoOMl0OogoNA2YO31kPMVMCyekhPIhyUozcphGTAJTLQ8OF6wx4LV2iEzEQbVEzRHHkXdpUaGArGORNElrFaXu5wDgJMTFhBomP2g3o84BLEsjvOAF6KSsHJXf-EHA11y02Y0LxDuXs72qyVtphK3JUx5Lih7UdBK45YUhw0xNJvZJz8bUcr0yyVC8lSp7jvTQufn28ip4m7zzg2ymAwC_99lyVUl1Aoia5jcv2o9b4GMl0rWtda7JycDfPLMqy6yImMECrLV3lfhasu1hVtBpZYgz5Pb7GqXYGY7KfukVm8cv7KHhTAFv2F3asy5qvuPgzZ6_-YaJfljf0AXswenXpGqTQAAAAASUVORK5CYII.png",
+            "snippet": "Best Cafes Near You in Rajarajeshwari Nagar, Bangalore Look for Best Cafes in Bangalore · Desi Indian Pizza Square · Oven Story Pizza · The Pizza Project by Oven ...",
+            "snippet_highlighted_words": [
+                "Desi Indian Pizza Square"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Best Cafes Near You in Rajarajeshwari Nagar, Bangalore Look for Best Cafes in Bangalore · Desi Indian Pizza Square · Oven Story Pizza · The Pizza Project by Oven ...",
+                    "source_info_link": "https://magicpin.in/india/Bangalore/Rajarajeshwari-Nagar/Cafe/?srsltid=AYCX9vIjZnPCao1CjdJ5Dfpryo--BDILRFh-L6n6cTCo5zE-mcvDDvS-",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEzqJXXpIHPuJ3jpInTqJXXrJXbqJnXpIHPpHnLqJXT____pGXLoBWrqK3r3u9L85_D98Pb-_v7rO4L--PvuXJTwcaLtTIz72ebxgqz5y932rMf0m71dI1pdAAAAC3RSTlMAU9EOsG8gOun3j9KEG_YAAAFxSURBVCiRdZLZmoIwDIURUVqzdN95_-ecoDijfk6uoH9PTpJmmp5xvSxKa7VcrtNnXG8KkUNgRHX7wKtCzqZaW01mVOsrO2lsFiA65wFqQ3160Wk0AL0V5tI6wKA_7XnmATYj7Z6kJcem5_MBL9jAJuJt99yQkoOMl0OogoNA2YO31kPMVMCyekhPIhyUozcphGTAJTLQ8OF6wx4LV2iEzEQbVEzRHHkXdpUaGArGORNElrFaXu5wDgJMTFhBomP2g3o84BLEsjvOAF6KSsHJXf-EHA11y02Y0LxDuXs72qyVtphK3JUx5Lih7UdBK45YUhw0xNJvZJz8bUcr0yyVC8lSp7jvTQufn28ip4m7zzg2ymAwC_99lyVUl1Aoia5jcv2o9b4GMl0rWtda7JycDfPLMqy6yImMECrLV3lfhasu1hVtBpZYgz5Pb7GqXYGY7KfukVm8cv7KHhTAFv2F3asy5qvuPgzZ6_-YaJfljf0AXswenXpGqTQAAAAASUVORK5CYII.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowCL2dvdG8_dXJsPUNBRVN2QUVCeENKRjF5eV85WEFlSldEdnJBVmhXZzQ2YmltSjhId0V6NXZVbUMwTUdqekc1ZllSWjByRnRhUU80NEhTOUxubm9zbzBVdERWZ1VXLU5pZ2pqendvZVNYU2pZbkdDNTByRjVmc0Z2U2xEa0NERVYwbHdGOVpzRTMtdTc2ZVduaG04TkhaaElXTVR3YWd0VXNSb1VybWdyZ1FGenhjNkJvel9SdnJZaU5xVm16ZXhNeFhsdDcxNzhtZWtOWHp3YWlLZW1nb0ZTOVp0eG5lSmh5dWcyWTZuS2doemtCR3dCVUltelBBa29IajFob09rVWlWbWdXZFhOSlgzURIEGgIIABq2CRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCSCQgAEAAYACAAKjkKB3N0dWRlbnQVx_vQPRoHbGVhcm5lchoFcHVwaWwaCHN0dWRlbnRzGg9zdHVkZW50ZnJpZW5kbHkqJgoIZnJpZW5kbHkVA0iWPhoEbmljZRoPc3R1ZGVudGZyaWVuZGx5Km4KBGNhZmUVJ2F5QBoGYnJ1bmNoGgVjYWZlcxoFY2Fmw6kaC2NvZmZlZSBzaG9wGgxjb2ZmZWUgc2hvcHMaDGNvZmZlZSBob3VzZRoLY29mZmVlaG91c2UaCnJlc3RhdXJhbnQaCWl2O3A7Y2FmZSoiCgRuZWFyFQAAAAAaBmJlc2lkZRoFY2xvc2UaBm5lYXJieSobCgNybnMV9jKOQBoFcm5zaXQaCGl2O3A7cm5zKpQBCglpbnN0aXR1dGUVb519PxoHYWNhZGVteRoGY2VudGVyGgdjb2xsZWdlGhNlbmdpbmVlcmluZyBjb2xsZWdlGgRpbnN0GghpbnN0aXR1dBoKaW5zdGl0dXRlcxoLaW5zdGl0dXRpb24aBXJuc2l0GgZzY2hvb2waEXRlY2huaWNhbCBjb2xsZWdlGghjb2xsZWdlcyoJCgJvZhUAAAAAKnsKCnRlY2hub2xvZ3kVb519PxoTZW5naW5lZXJpbmcgY29sbGVnZRoFcm5zaXQaBHRlY2gaCXRlY2huaWNhbBoRdGVjaG5pY2FsIGNvbGxlZ2UaDXRlY2hub2xvZ2ljYWwaDHRlY2hub2xvZ2llcxoLZW5naW5lZXJpbmcqigEKCWJlbmdhbHVydRVxQU0_GgliYW5nYWxvcmUaBWJsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUytAEvZ290bz91cmw9Q0FFU2V3SEVJa1hYRXhmb3NTTzk1YmhLc2I5LWZCOGstNmZCbUJZU0NQQVA3MFlNUENxY3h0RWU4ZlFEbFVLeGQxM1l0dFltc3dFQ3FXMlVlWUh5eWVOMTJBUlM5MXpsWGk2eDBIaEdaTGthc0NibnpuYXh0djItaGl6X2lIOGNSeVppeU9uRnZpZzJoRXlnTVY3d1lwLU0zaUp2dUI1cW8xZllZZlQ3M0E6REJlc3QgPGI-Q2FmZXM8L2I-IE5lYXIgWW91IGluIFJhamFyYWplc2h3YXJpIE5hZ2FyLCA8Yj5CYW5nYWxvcmU8L2I-QsYBQmVzdCBDYWZlcyBOZWFyIFlvdSBpbiBSYWphcmFqZXNod2FyaSBOYWdhciwgQmFuZ2Fsb3JlIExvb2sgZm9yIEJlc3QgQ2FmZXMgaW4gQmFuZ2Fsb3JlICZtaWRkb3Q7IDxiPkRlc2kgSW5kaWFuIFBpenphIFNxdWFyZTwvYj4gJm1pZGRvdDsgT3ZlbiBTdG9yeSBQaXp6YSAmbWlkZG90OyBUaGUgUGl6emEgUHJvamVjdCBieSBPdmVuJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowCL2dvdG8_dXJsPUNBRVN2QUVCeENKRjF5eV85WEFlSldEdnJBVmhXZzQ2YmltSjhId0V6NXZVbUMwTUdqekc1ZllSWjByRnRhUU80NEhTOUxubm9zbzBVdERWZ1VXLU5pZ2pqendvZVNYU2pZbkdDNTByRjVmc0Z2U2xEa0NERVYwbHdGOVpzRTMtdTc2ZVduaG04TkhaaElXTVR3YWd0VXNSb1VybWdyZ1FGenhjNkJvel9SdnJZaU5xVm16ZXhNeFhsdDcxNzhtZWtOWHp3YWlLZW1nb0ZTOVp0eG5lSmh5dWcyWTZuS2doemtCR3dCVUltelBBa29IajFob09rVWlWbWdXZFhOSlgzURIEGgIIABq2CRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCSCQgAEAAYACAAKjkKB3N0dWRlbnQVx_vQPRoHbGVhcm5lchoFcHVwaWwaCHN0dWRlbnRzGg9zdHVkZW50ZnJpZW5kbHkqJgoIZnJpZW5kbHkVA0iWPhoEbmljZRoPc3R1ZGVudGZyaWVuZGx5Km4KBGNhZmUVJ2F5QBoGYnJ1bmNoGgVjYWZlcxoFY2Fmw6kaC2NvZmZlZSBzaG9wGgxjb2ZmZWUgc2hvcHMaDGNvZmZlZSBob3VzZRoLY29mZmVlaG91c2UaCnJlc3RhdXJhbnQaCWl2O3A7Y2FmZSoiCgRuZWFyFQAAAAAaBmJlc2lkZRoFY2xvc2UaBm5lYXJieSobCgNybnMV9jKOQBoFcm5zaXQaCGl2O3A7cm5zKpQBCglpbnN0aXR1dGUVb519PxoHYWNhZGVteRoGY2VudGVyGgdjb2xsZWdlGhNlbmdpbmVlcmluZyBjb2xsZWdlGgRpbnN0GghpbnN0aXR1dBoKaW5zdGl0dXRlcxoLaW5zdGl0dXRpb24aBXJuc2l0GgZzY2hvb2waEXRlY2huaWNhbCBjb2xsZWdlGghjb2xsZWdlcyoJCgJvZhUAAAAAKnsKCnRlY2hub2xvZ3kVb519PxoTZW5naW5lZXJpbmcgY29sbGVnZRoFcm5zaXQaBHRlY2gaCXRlY2huaWNhbBoRdGVjaG5pY2FsIGNvbGxlZ2UaDXRlY2hub2xvZ2ljYWwaDHRlY2hub2xvZ2llcxoLZW5naW5lZXJpbmcqigEKCWJlbmdhbHVydRVxQU0_GgliYW5nYWxvcmUaBWJsb3JlGhRnZW87M2JhZTEwMDAwMDAwMDAwMBoUZ2VvOzNiYWUzMDAwMDAwMDAwMDAaFGdlbzszYmFlNTAwMDAwMDAwMDAwGhRnZW87M2JhZTcwMDAwMDAwMDAwMBoOaXY7cDtiZW5nYWx1cnUytAEvZ290bz91cmw9Q0FFU2V3SEVJa1hYRXhmb3NTTzk1YmhLc2I5LWZCOGstNmZCbUJZU0NQQVA3MFlNUENxY3h0RWU4ZlFEbFVLeGQxM1l0dFltc3dFQ3FXMlVlWUh5eWVOMTJBUlM5MXpsWGk2eDBIaEdaTGthc0NibnpuYXh0djItaGl6X2lIOGNSeVppeU9uRnZpZzJoRXlnTVY3d1lwLU0zaUp2dUI1cW8xZllZZlQ3M0E6REJlc3QgPGI-Q2FmZXM8L2I-IE5lYXIgWW91IGluIFJhamFyYWplc2h3YXJpIE5hZ2FyLCA8Yj5CYW5nYWxvcmU8L2I-QsYBQmVzdCBDYWZlcyBOZWFyIFlvdSBpbiBSYWphcmFqZXNod2FyaSBOYWdhciwgQmFuZ2Fsb3JlIExvb2sgZm9yIEJlc3QgQ2FmZXMgaW4gQmFuZ2Fsb3JlICZtaWRkb3Q7IDxiPkRlc2kgSW5kaWFuIFBpenphIFNxdWFyZTwvYj4gJm1pZGRvdDsgT3ZlbiBTdG9yeSBQaXp6YSAmbWlkZG90OyBUaGUgUGl6emEgUHJvamVjdCBieSBPdmVuJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "source": "magicpin",
+            "read_more_link": "https://www.google.com/goto?url=CAES8wIBxCJF115TTTP6Ctp4G8fEP5d1NkS-DzRkmP30fGjyx3tY2pB4coDQko9ySLPaBdjJpnZYiaf0w-n8LN-hoTVMUp2zCnv59c0zkLegM8e3Rd6Bf7bZAoH5RNpwSrTk_1TGyHaOqE_YU5ft9P0HGSO3P3lDM0cE80IlSvqUV7oVDp3kvERKpbJToZvnOyODR92oDscHHmqTpVII0ABcsS2XzBkQWowJlizId3Bhu2kknoYgEqRPtUJFultXgtcSZ_52EwisfPO6AwYUQs8TR3F_KOdEuYTR7jTdPsuh6x0xaVfYoW92nJNiZHdV7FIuOrAig3YL-eS5WkAcsg7falJGeRVRsh57LylxwZxzNxmHlZHWAAdpaBDyPY_DZJgJJlQhW2h1WW8CP9z9GfUCxElGcUq0ThKSDstuLkmcO4klWPDtWtR9oY8V2Sr7tYMn4UITVMMvKWtK3OmQ_4VaoBnu9mmwiVPCcFvPoe0mA4qTTSThIw&gsessionid=pvMTr5WilGlEvQ0_94cjUdy9a0RhlIQ6PeiJhkbQt4Btoz-q553LaA"
+        },
+        {
+            "position": 2,
+            "title": "Best Cafes for Students",
+            "link": "https://www.bangaloreorbit.com/forum/d/135-best-cafes-for-students",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHEIkXXP49EJ5J3fCj17beBKOaG-eWMa8M-qzYZMGNsoYM40526nlTvcMZs-I9p2ezkH0lXYb0G5DbeZHrLbCgj4hXvv_01_4MCuMo3is9jJQ9C2Fj50r1MPdtG06JvFg9mo24ushon5eCfXvD-CkKuucLqdkgTJjK5TMnrDgk&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECEAQAQ&uoh=1",
+            "displayed_link": "https://www.bangaloreorbit.com › forum › 135-best-cafe...",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAKCAMAAADik6yWAAABU1BMVEX____8-_3TzvW7te6ysOuxsuittOasteKqt-Coud6mu9qkvdiivtWhv9Kfws-dw8ybxcqWyMqZyMO1w7KkyLmN0b6g1cLH5tqxnfZuTutvWOdsX-JmZNxiaNZda9BYcMxcestPd8JKfLxEf7Y_g7BDjbA0i6Ytj6E0kJaIg2WCh2djkXOTiFeUilAAqnsAq28Ar2yW2biJYu9mRtN6ZOx0Z-Z4i3s_l5ValoMHo5MAqpKvhUkjrHc4rWwAtGdUx4y2mPxCP5JQR6dhW8NFSplSW7NHVZ89UJFPabA-XpY-a5oyYIg3cJQxb4k4ho-1gVOIjWaiiFVWomeBl1LFgjCFSv06QogjO2onUHMZVHA9bXZzkHi3hT2njkFEx4BrUM9kcXNEm4I7pHxvmmZepl1-i4ekg2N6kHJdU7hYZLg8eZkedYYbcnchi4IZg2tkRduE0qyC9Gx7AAAAyElEQVR4AXXOg1IEYBiF4ff8WWsNs20bF7rXUKNs1yBjkGuYba-ej-MjAIV3CiDAp0iWQVChV6Nj_bF-7kvL-xpFtL1_6AvfaztHZxfZ0tnlssGNXl-dsotXCxaSSU6mXK9kJ5JAMdFwVLR6si3l2edyt_SuYdqWZZur1eZlNSDa3LsEZGjVRPPD5hWWKwuXy0I-ehLYNlm7BgNpA93os5auLGl-DK8nubbbXl76MtncwAD7A-LqvajwgwAkAxh9eN8GRQHmFOANhVo3ycJjub4AAAAASUVORK5CYII.png",
+            "date": "Jun 23, 2026",
+            "snippet": "1. Third Wave Coffee Roasters · Popular modern café known for specialty coffee and calm ambiance · Comfortable seating ideal for long study ...",
+            "snippet_highlighted_words": [
+                "Third Wave Coffee Roasters"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "1. Third Wave Coffee Roasters · Popular modern café known for specialty coffee and calm ambiance · Comfortable seating ideal for long study ...",
+                    "source_info_link": "https://www.bangaloreorbit.com/forum/d/135-best-cafes-for-students",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAKCAMAAADik6yWAAABU1BMVEX____8-_3TzvW7te6ysOuxsuittOasteKqt-Coud6mu9qkvdiivtWhv9Kfws-dw8ybxcqWyMqZyMO1w7KkyLmN0b6g1cLH5tqxnfZuTutvWOdsX-JmZNxiaNZda9BYcMxcestPd8JKfLxEf7Y_g7BDjbA0i6Ytj6E0kJaIg2WCh2djkXOTiFeUilAAqnsAq28Ar2yW2biJYu9mRtN6ZOx0Z-Z4i3s_l5ValoMHo5MAqpKvhUkjrHc4rWwAtGdUx4y2mPxCP5JQR6dhW8NFSplSW7NHVZ89UJFPabA-XpY-a5oyYIg3cJQxb4k4ho-1gVOIjWaiiFVWomeBl1LFgjCFSv06QogjO2onUHMZVHA9bXZzkHi3hT2njkFEx4BrUM9kcXNEm4I7pHxvmmZepl1-i4ekg2N6kHJdU7hYZLg8eZkedYYbcnchi4IZg2tkRduE0qyC9Gx7AAAAyElEQVR4AXXOg1IEYBiF4ff8WWsNs20bF7rXUKNs1yBjkGuYba-ej-MjAIV3CiDAp0iWQVChV6Nj_bF-7kvL-xpFtL1_6AvfaztHZxfZ0tnlssGNXl-dsotXCxaSSU6mXK9kJ5JAMdFwVLR6si3l2edyt_SuYdqWZZur1eZlNSDa3LsEZGjVRPPD5hWWKwuXy0I-ehLYNlm7BgNpA93os5auLGl-DK8nubbbXl76MtncwAD7A-LqvajwgwAkAxh9eN8GRQHmFOANhVo3ycJjub4AAAAASUVORK5CYII.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hFSWtYWGdMVnEzRFh3dTZYeFpHbnlVcWVOWW1HbFc0b0J5Z3hXV3c2U195Ql9NQzFmNk9yNnFhMFZTeTNFQ3NXUGl2VVI3UDdJN01mSFNyWUFuWVlDS0JtZ1FncUoySUFwMlMxelQyM0FmRVQyVVpuZ3lyWXFHQ2s4TjZ0WDd6cGZTQTZ5ak5FbmFsSHhyRnJjbDVUTzhwZkhqWHZuZmZ2R2VZRFpzcGMSBBoCCAAakQkSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA7QgIABAAGAAgACo5CgdzdHVkZW50FTaWXz4aB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FdJR3z0aBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFXB7uUAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFc5D0j8aBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFbXrrj8aB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FbXrrj8aE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVKy7mPxoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MrkBL2dvdG8_dXJsPUNBRVNmd0hFSWtYWGdMVnEzRFh3dTZYeFpHbnlVcWVOWW1HbFc0b0J5Z3hXV3c2U195Ql9NQzFmNk9yNnFhMFZTeTNFQ3NXUGl2VVI3UDdJN01mSFNyWUFuWVlDS0JtZ1FncUoySUFwMlMxelQyM0FmRVQyVVpuZ3lyWXFHQ2s4TjZ0WDd6cGZTQTZ5ak5FbmFsSHhyRnJjbDVUTzhwZkhqWHZuZmZ2R2VZRFpzcGM6NkJlc3QgPGI-Q2FmZXM8L2I-IGZvciA8Yj5TdHVkZW50czwvYj4gLSBCYW5nYWxvcmVPcmJpdEKqATEuIDxiPlRoaXJkIFdhdmUgQ29mZmVlIFJvYXN0ZXJzPC9iPiAmbWlkZG90OyBQb3B1bGFyIG1vZGVybiBjYWbDqSBrbm93biBmb3Igc3BlY2lhbHR5IGNvZmZlZSBhbmQgY2FsbSBhbWJpYW5jZSAmbWlkZG90OyBDb21mb3J0YWJsZSBzZWF0aW5nIGlkZWFsIGZvciBsb25nIHN0dWR5Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hFSWtYWGdMVnEzRFh3dTZYeFpHbnlVcWVOWW1HbFc0b0J5Z3hXV3c2U195Ql9NQzFmNk9yNnFhMFZTeTNFQ3NXUGl2VVI3UDdJN01mSFNyWUFuWVlDS0JtZ1FncUoySUFwMlMxelQyM0FmRVQyVVpuZ3lyWXFHQ2s4TjZ0WDd6cGZTQTZ5ak5FbmFsSHhyRnJjbDVUTzhwZkhqWHZuZmZ2R2VZRFpzcGMSBBoCCAAakQkSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA7QgIABAAGAAgACo5CgdzdHVkZW50FTaWXz4aB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FdJR3z0aBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFXB7uUAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFc5D0j8aBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFbXrrj8aB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FbXrrj8aE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVKy7mPxoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MrkBL2dvdG8_dXJsPUNBRVNmd0hFSWtYWGdMVnEzRFh3dTZYeFpHbnlVcWVOWW1HbFc0b0J5Z3hXV3c2U195Ql9NQzFmNk9yNnFhMFZTeTNFQ3NXUGl2VVI3UDdJN01mSFNyWUFuWVlDS0JtZ1FncUoySUFwMlMxelQyM0FmRVQyVVpuZ3lyWXFHQ2s4TjZ0WDd6cGZTQTZ5ak5FbmFsSHhyRnJjbDVUTzhwZkhqWHZuZmZ2R2VZRFpzcGM6NkJlc3QgPGI-Q2FmZXM8L2I-IGZvciA8Yj5TdHVkZW50czwvYj4gLSBCYW5nYWxvcmVPcmJpdEKqATEuIDxiPlRoaXJkIFdhdmUgQ29mZmVlIFJvYXN0ZXJzPC9iPiAmbWlkZG90OyBQb3B1bGFyIG1vZGVybiBjYWbDqSBrbm93biBmb3Igc3BlY2lhbHR5IGNvZmZlZSBhbmQgY2FsbSBhbWJpYW5jZSAmbWlkZG90OyBDb21mb3J0YWJsZSBzZWF0aW5nIGlkZWFsIGZvciBsb25nIHN0dWR5Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "source": "BangaloreOrbit",
+            "read_more_link": "https://www.google.com/goto?url=CAESygIBxCJF159XI310ntdW23wQOlzW7BpWT2Kez0T0YvM6WTyCNsuWIqt2Ypn-wGsnqa5mxLZEryv0EMnrxc12in72D632Elfx4-tI16rvnkxbPRjdOKiLSyVDCqfF7yel5CHltbGgAbBG2aP7U-zib2CD1Z4FUIEhNCD_DBp7VF9SYpgjeIgvXnIgyp0q63opslJ_TnmzhiGoseIhZUenDNzfN5csZJFD33PA-OejG7Dk4QDWgBXdOx49zwc_MY7NzeG_3O4jKlI59WXMv3Lbf1q5df9rFW_ND1VuBUk4UsvH_DmWmc0HPSgK9K3sN-oBAWOQXusPojnM5KviTtT-apgrtmo2C-GSo7KI8HNIuzTPH74SyIkZ_hAus2yo_XZeYUU55QuS2lEezMwVpSLD18HEVI5b3e8pjrZlU56nJEvhSVhDJAsTpEeVVtQ&gsessionid=pvMTr5WilGlEvQ0_94cjUdy9a0RhlIQ6PeiJhkbQt4Btoz-q553LaA"
+        },
+        {
+            "position": 3,
+            "title": "Best Restaurants near Global Academy For Learning ...",
+            "link": "https://www.google.com/goto?url=CAESrAEBxCJF1xbraxukB356MjD16jxXisBNUztOkCK_v2m-dLkzLQLxTvvioLd2RFpXC-79cb9qTk-OxELOTaOV7SW3DN4U_QJVSxBvU9BBgNMTeXmJVKlYzTmrQmU6Koqg9Oc4u3IS8hgUrWNJb-LZToWPJntEKAEnkarqCL1KgQvq2RSbugHbvhc372HqZtKsN2vrpzv-3LldHY9UJp8zjmobn3MdNPVC5UbPDRhg",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEBxCJF12hbvWXtthdqGKz_Z1zIA5YBZTtGzLdpssIAMPP-ZZMH1wFBhvtqOzVGFWNxhEGyx0XO199IxW2zF38yANIgs-S_4FzjtbqlM2MUdg_Dy4lyviylzKdM_mHtVB5cU2I_BpSRGqEFhaJ_ly7e-b2KAi1Pa9w_QuePkfRC2fD9cNgvMNbepyhIDh8aNLU6U3fmuZ4WYGrsTEyxqH_uFYrP1_WfXNYEa1lJ&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECGYQAQ&uoh=1",
+            "displayed_link": "https://www.justdial.com › ... › 899+ Listings",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEX9__z_5dHT5fSLvuX_pmf_awL_uYRyq9YMdcD_l0dKnNU8kNH-gBz_iTT_0K28hCtuAAAAWElEQVR4AWNAA4wgQhmIXROARIUBA8NUEGMFjLHDICfyKljELDQ0FMywCeGDMEwDGK5CGSDFTAw7TMMYgVIcXR0qoVOBDPaOdgbXmDkPGBiUFBgYBRiwAACC6Rgw_7hHtwAAAABJRU5ErkJggg.png",
+            "snippet": "Discover the best places to eat near Global Academy For Learning Rajarajeshwari Nagar, Bangalore, from top dining spots to cozy cafes, vibrant pubs, ...",
+            "snippet_highlighted_words": [
+                "Global Academy For Learning Rajarajeshwari Nagar, Bangalore"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Discover the best places to eat near Global Academy For Learning Rajarajeshwari Nagar, Bangalore, from top dining spots to cozy cafes, vibrant pubs, ...",
+                    "source_info_link": "https://www.google.com/goto?url=CAESrAEBxCJF1xbraxukB356MjD16jxXisBNUztOkCK_v2m-dLkzLQLxTvvioLd2RFpXC-79cb9qTk-OxELOTaOV7SW3DN4U_QJVSxBvU9BBgNMTeXmJVKlYzTmrQmU6Koqg9Oc4u3IS8hgUrWNJb-LZToWPJntEKAEnkarqCL1KgQvq2RSbugHbvhc372HqZtKsN2vrpzv-3LldHY9UJp8zjmobn3MdNPVC5UbPDRhg",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEX9__z_5dHT5fSLvuX_pmf_awL_uYRyq9YMdcD_l0dKnNU8kNH-gBz_iTT_0K28hCtuAAAAWElEQVR4AWNAA4wgQhmIXROARIUBA8NUEGMFjLHDICfyKljELDQ0FMywCeGDMEwDGK5CGSDFTAw7TMMYgVIcXR0qoVOBDPaOdgbXmDkPGBiUFBgYBRiwAACC6Rgw_7hHtwAAAABJRU5ErkJggg.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvYBL2dvdG8_dXJsPUNBRVNyQUVCeENKRjF4YnJheHVrQjM1Nk1qRDE2anhYaXNCTlV6dE9rQ0tfdjJtLWRMa3pMUUx4VHZ2aW9MZDJSRnBYQy03OWNiOXFUay1PeEVMT1RhT1Y3U1czRE40VV9RSlZTeEJ2VTlCQmdOTVRlWG1KVktsWXpUbXJRbVU2S29xZzlPYzR1M0lTOGhnVXJXTkpiLUxaVG9XUEpudEVLQUVua2FycUNMMUtnUXZxMlJTYnVnSGJ2aGMzNzJIcVp0S3NOMnZycHp2LTNMbGRIWTlVSnA4emptb2JuM01kTlBWQzVVYlBEUmhnEgQaAggAGs4JEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKoJCAAQABgAIAAqOQoHc3R1ZGVudBW0vTJAGgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRVXAVhAGgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRUEZ4hAGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUAAAAAGgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRUAAAAAGhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FebdJD8aCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTL2AS9nb3RvP3VybD1DQUVTckFFQnhDSkYxeGJyYXh1a0IzNTZNakQxNmp4WGlzQk5VenRPa0NLX3YybS1kTGt6TFFMeFR2dmlvTGQyUkZwWEMtNzljYjlxVGstT3hFTE9UYU9WN1NXM0RONFVfUUpWU3hCdlU5QkJnTk1UZVhtSlZLbFl6VG1yUW1VNktvcWc5T2M0dTNJUzhoZ1VyV05KYi1MWlRvV1BKbnRFS0FFbmthcnFDTDFLZ1F2cTJSU2J1Z0hidmhjMzcySHFadEtzTjJ2cnB6di0zTGxkSFk5VUpwOHpqbW9ibjNNZE5QVkM1VWJQRFJoZzo8QmVzdCBSZXN0YXVyYW50cyBuZWFyIEdsb2JhbCA8Yj5BY2FkZW15PC9iPiBGb3IgTGVhcm5pbmcgLi4uQqQBRGlzY292ZXIgdGhlIGJlc3QgcGxhY2VzIHRvIGVhdCBuZWFyIDxiPkdsb2JhbCBBY2FkZW15IEZvciBMZWFybmluZyBSYWphcmFqZXNod2FyaSBOYWdhciwgQmFuZ2Fsb3JlPC9iPiwgZnJvbSB0b3AgZGluaW5nIHNwb3RzIHRvIGNvenkgY2FmZXMsIHZpYnJhbnQgcHVicywmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYBL2dvdG8_dXJsPUNBRVNyQUVCeENKRjF4YnJheHVrQjM1Nk1qRDE2anhYaXNCTlV6dE9rQ0tfdjJtLWRMa3pMUUx4VHZ2aW9MZDJSRnBYQy03OWNiOXFUay1PeEVMT1RhT1Y3U1czRE40VV9RSlZTeEJ2VTlCQmdOTVRlWG1KVktsWXpUbXJRbVU2S29xZzlPYzR1M0lTOGhnVXJXTkpiLUxaVG9XUEpudEVLQUVua2FycUNMMUtnUXZxMlJTYnVnSGJ2aGMzNzJIcVp0S3NOMnZycHp2LTNMbGRIWTlVSnA4emptb2JuM01kTlBWQzVVYlBEUmhnEgQaAggAGs4JEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKoJCAAQABgAIAAqOQoHc3R1ZGVudBW0vTJAGgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRVXAVhAGgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRUEZ4hAGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUAAAAAGgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRUAAAAAGhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FebdJD8aCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTL2AS9nb3RvP3VybD1DQUVTckFFQnhDSkYxeGJyYXh1a0IzNTZNakQxNmp4WGlzQk5VenRPa0NLX3YybS1kTGt6TFFMeFR2dmlvTGQyUkZwWEMtNzljYjlxVGstT3hFTE9UYU9WN1NXM0RONFVfUUpWU3hCdlU5QkJnTk1UZVhtSlZLbFl6VG1yUW1VNktvcWc5T2M0dTNJUzhoZ1VyV05KYi1MWlRvV1BKbnRFS0FFbmthcnFDTDFLZ1F2cTJSU2J1Z0hidmhjMzcySHFadEtzTjJ2cnB6di0zTGxkSFk5VUpwOHpqbW9ibjNNZE5QVkM1VWJQRFJoZzo8QmVzdCBSZXN0YXVyYW50cyBuZWFyIEdsb2JhbCA8Yj5BY2FkZW15PC9iPiBGb3IgTGVhcm5pbmcgLi4uQqQBRGlzY292ZXIgdGhlIGJlc3QgcGxhY2VzIHRvIGVhdCBuZWFyIDxiPkdsb2JhbCBBY2FkZW15IEZvciBMZWFybmluZyBSYWphcmFqZXNod2FyaSBOYWdhciwgQmFuZ2Fsb3JlPC9iPiwgZnJvbSB0b3AgZGluaW5nIHNwb3RzIHRvIGNvenkgY2FmZXMsIHZpYnJhbnQgcHVicywmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+            "source": "Justdial"
+        },
+        {
+            "position": 4,
+            "title": "Rajarajeshwari Nagar, Bangalore - Restaurant - magicpin",
+            "link": "https://www.google.com/goto?url=CAESygEBxCJF13CbUn7g2OFx-n63XlNDNsxCJBIUT9N7ZyOyYfm-4hsfeAFvH1xPzTHmOUmQyb3d7YCRibG-CH52EYkyDRE1lwQj-qHS8-tida0jU0KMfbTwx6MTmWIXXW7H_ZLbQRAWWENU3TFzEDyVwk150WtdoPnybhjJb2htHubkKYxNgpEu-2p1SNQ3tjMXjJ6zwoKNgWUJD4uwpPBZXs9x6X7EszwjuVdByThALjvAMEAk2jLMjj4GvAmiRDDBbrvxfIgp6gQWWMyt",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEBxCJF1yKKIqrf2o19Y3MaSPI6yfrCQGXhEmjEx2xp7H1bKDtJQL6pjTr9mNlI-sLsVF-hC15YtYPVQcNyBl8wf-7SZjSFD9kpll-QROYAWwINXi5oVR4YkQ8SJAC-YuDVezJCw274Vku_hqkHwbB1cINPzPpW6CU09xUGrUrbsOUohaWsxDWZWF2pttPLP1dQYI8TiviPmGzbcyCop-3YBoN9arcTI3rbkNeBqmCQaH0rXz-aVmhSWQEo4feNodjD010gLq5HqHng&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECEYQAQ&uoh=1",
+            "displayed_link": "https://magicpin.in › ... › Restaurant",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5aRkI19zPvaveqnsBJdrSfXgSaLm0CBQ8Q9tnFiD14kut8fg2rVj4&usqp=CAE&s",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEzqJXXpIHPuJ3jpInTqJXXrJXbqJnXpIHPpHnLqJXT____pGXLoBWrqK3r3u9L85_D98Pb-_v7rO4L--PvuXJTwcaLtTIz72ebxgqz5y932rMf0m71dI1pdAAAAC3RSTlMAU9EOsG8gOun3j9KEG_YAAAFxSURBVCiRdZLZmoIwDIURUVqzdN95_-ecoDijfk6uoH9PTpJmmp5xvSxKa7VcrtNnXG8KkUNgRHX7wKtCzqZaW01mVOsrO2lsFiA65wFqQ3160Wk0AL0V5tI6wKA_7XnmATYj7Z6kJcem5_MBL9jAJuJt99yQkoOMl0OogoNA2YO31kPMVMCyekhPIhyUozcphGTAJTLQ8OF6wx4LV2iEzEQbVEzRHHkXdpUaGArGORNElrFaXu5wDgJMTFhBomP2g3o84BLEsjvOAF6KSsHJXf-EHA11y02Y0LxDuXs72qyVtphK3JUx5Lih7UdBK45YUhw0xNJvZJz8bUcr0yyVC8lSp7jvTQufn28ip4m7zzg2ymAwC_99lyVUl1Aoia5jcv2o9b4GMl0rWtda7JycDfPLMqy6yImMECrLV3lfhasu1hVtBpZYgz5Pb7GqXYGY7KfukVm8cv7KHhTAFv2F3asy5qvuPgzZ6_-YaJfljf0AXswenXpGqTQAAAAASUVORK5CYII.png",
+            "snippet": "Monish Corner · Balaji Bhavan · Full Circle · Surapana - Tea Cafe · Taco Bell · Royal Indraprastha · Brownie Bottle · Nouvo.",
+            "snippet_highlighted_words": [
+                "Monish Corner"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Monish Corner · Balaji Bhavan · Full Circle · Surapana - Tea Cafe · Taco Bell · Royal Indraprastha · Brownie Bottle · Nouvo.",
+                    "source_info_link": "https://www.google.com/goto?url=CAESygEBxCJF13CbUn7g2OFx-n63XlNDNsxCJBIUT9N7ZyOyYfm-4hsfeAFvH1xPzTHmOUmQyb3d7YCRibG-CH52EYkyDRE1lwQj-qHS8-tida0jU0KMfbTwx6MTmWIXXW7H_ZLbQRAWWENU3TFzEDyVwk150WtdoPnybhjJb2htHubkKYxNgpEu-2p1SNQ3tjMXjJ6zwoKNgWUJD4uwpPBZXs9x6X7EszwjuVdByThALjvAMEAk2jLMjj4GvAmiRDDBbrvxfIgp6gQWWMyt",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEzqJXXpIHPuJ3jpInTqJXXrJXbqJnXpIHPpHnLqJXT____pGXLoBWrqK3r3u9L85_D98Pb-_v7rO4L--PvuXJTwcaLtTIz72ebxgqz5y932rMf0m71dI1pdAAAAC3RSTlMAU9EOsG8gOun3j9KEG_YAAAFxSURBVCiRdZLZmoIwDIURUVqzdN95_-ecoDijfk6uoH9PTpJmmp5xvSxKa7VcrtNnXG8KkUNgRHX7wKtCzqZaW01mVOsrO2lsFiA65wFqQ3160Wk0AL0V5tI6wKA_7XnmATYj7Z6kJcem5_MBL9jAJuJt99yQkoOMl0OogoNA2YO31kPMVMCyekhPIhyUozcphGTAJTLQ8OF6wx4LV2iEzEQbVEzRHHkXdpUaGArGORNElrFaXu5wDgJMTFhBomP2g3o84BLEsjvOAF6KSsHJXf-EHA11y02Y0LxDuXs72qyVtphK3JUx5Lih7UdBK45YUhw0xNJvZJz8bUcr0yyVC8lSp7jvTQufn28ip4m7zzg2ymAwC_99lyVUl1Aoia5jcv2o9b4GMl0rWtda7JycDfPLMqy6yImMECrLV3lfhasu1hVtBpZYgz5Pb7GqXYGY7KfukVm8cv7KHhTAFv2F3asy5qvuPgzZ6_-YaJfljf0AXswenXpGqTQAAAAASUVORK5CYII.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCeENKRjEzQ2JVbjdnMk9GeC1uNjNYbE5ETnN4Q0pCSVVUOU43WnlPeVlmbS00aHNmZUFGdkgxeFB6VEhtT1VtUXliM2Q3WUNSaWJHLUNINTJFWWt5RFJFMWx3UWotcUhTOC10aWRhMGpVMEtNZmJUd3g2TVRtV0lYWFc3SF9aTGJRUkFXV0VOVTNURnpFRHlWd2sxNTBXdGRvUG55YmhqSmIyaHRIdWJrS1l4TmdwRXUtMnAxU05RM3RqTVhqSjZ6d29LTmdXVUpENHV3cFBCWlhzOXg2WDdFc3p3anVWZEJ5VGhBTGp2QU1FQWsyakxNamo0R3ZBbWlSRERCYnJ2eGZJZ3A2Z1FXV015dBIEGgIIABqwCRIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIoJCAAQABgAIAAqOQoHc3R1ZGVudBXFN-88GgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRXAH8U-GgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRVWKoRAGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUAAAAAGgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRUAAAAAGhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FXuWcj8aCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTLGAS9nb3RvP3VybD1DQUVTaUFFQnhDSkYxd1ZQOTVsX1NrWmk2WVdLNGR3a2NnX0pIX0ZiazV6VUFTdG9uOGIxOFVISndSN0tjUmZSSVBORG15RVlQSVdxeFpSNXY4MmlZUEZlZjBEWmZKNGtZMHlydHg2ejNraFJwUUNyUEVCM0NXbE9HbnB4aEEwUUNKenYxWkh5UHpvS0toTG9hQkVtdk5ZUDcwUWtiV3hrU0x5LURhLW5mLWtvOFhBWGZpeUpmLWlia1hTdzo8QmVzdCBDb2ZmZWUgUmVzdGF1cmFudHMgTmVhciBZb3UgaW4gUmFqYXJhamVzaHdhcmkgTmFnYXIgLi4uQrQBPGI-TW9uaXNoIENvcm5lcjwvYj4gJm1pZGRvdDsgQmFsYWppIEJoYXZhbiAmbWlkZG90OyBGdWxsIENpcmNsZSAmbWlkZG90OyBTdXJhcGFuYSAtIFRlYSBDYWZlICZtaWRkb3Q7IFRhY28gQmVsbCAmbWlkZG90OyBSb3lhbCBJbmRyYXByYXN0aGEgJm1pZGRvdDsgQnJvd25pZSBCb3R0bGUgJm1pZGRvdDsgTm91dm8uSgJvZiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCeENKRjEzQ2JVbjdnMk9GeC1uNjNYbE5ETnN4Q0pCSVVUOU43WnlPeVlmbS00aHNmZUFGdkgxeFB6VEhtT1VtUXliM2Q3WUNSaWJHLUNINTJFWWt5RFJFMWx3UWotcUhTOC10aWRhMGpVMEtNZmJUd3g2TVRtV0lYWFc3SF9aTGJRUkFXV0VOVTNURnpFRHlWd2sxNTBXdGRvUG55YmhqSmIyaHRIdWJrS1l4TmdwRXUtMnAxU05RM3RqTVhqSjZ6d29LTmdXVUpENHV3cFBCWlhzOXg2WDdFc3p3anVWZEJ5VGhBTGp2QU1FQWsyakxNamo0R3ZBbWlSRERCYnJ2eGZJZ3A2Z1FXV015dBIEGgIIABqwCRIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQIoJCAAQABgAIAAqOQoHc3R1ZGVudBXFN-88GgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRXAH8U-GgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRVWKoRAGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUAAAAAGgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRUAAAAAGhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FXuWcj8aCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTLGAS9nb3RvP3VybD1DQUVTaUFFQnhDSkYxd1ZQOTVsX1NrWmk2WVdLNGR3a2NnX0pIX0ZiazV6VUFTdG9uOGIxOFVISndSN0tjUmZSSVBORG15RVlQSVdxeFpSNXY4MmlZUEZlZjBEWmZKNGtZMHlydHg2ejNraFJwUUNyUEVCM0NXbE9HbnB4aEEwUUNKenYxWkh5UHpvS0toTG9hQkVtdk5ZUDcwUWtiV3hrU0x5LURhLW5mLWtvOFhBWGZpeUpmLWlia1hTdzo8QmVzdCBDb2ZmZWUgUmVzdGF1cmFudHMgTmVhciBZb3UgaW4gUmFqYXJhamVzaHdhcmkgTmFnYXIgLi4uQrQBPGI-TW9uaXNoIENvcm5lcjwvYj4gJm1pZGRvdDsgQmFsYWppIEJoYXZhbiAmbWlkZG90OyBGdWxsIENpcmNsZSAmbWlkZG90OyBTdXJhcGFuYSAtIFRlYSBDYWZlICZtaWRkb3Q7IFRhY28gQmVsbCAmbWlkZG90OyBSb3lhbCBJbmRyYXByYXN0aGEgJm1pZGRvdDsgQnJvd25pZSBCb3R0bGUgJm1pZGRvdDsgTm91dm8uSgJvZiICEAFIAFgAaAA",
+            "source": "magicpin",
+            "read_more_link": "https://www.google.com/goto?url=CAES9wIBxCJF1x6sYPpLSOr10BeWxZ_3JQABdLZ1thXKgndgNlvtddfIAe_vIK5WWNL0zcYLgAOByatsbqNloa31NygyWNc9HhFKDa9GpkT0zzzmTB3ilYGQFa8FOl-9d90dkPC8DkFkFo0PrqsIab6ZRVwi7KiY5bptSTPmWoJNfFz7oxwyEh8uJkTppxlcknkboDLbmsxbKNw2vNYCv3kI0jmNYgAT2mkXS8fkd3BIaC1IDSJ2eaQehsryhJ1QTNzgIQ-Ndcu48cEh74emBKsGhggV9pEttXABMAk5Elu1wc2-GEtxAFY4pOZwR6cptkmeDkvHXd9XPhS-09_Qo_emmj7MFmlt6eIRrGPKDQUnMIcY15PONNK06590Gni1BFcIxup7nvZk9NGwp4_OdvWL_jEmoG07jZtZdgZDbVy4V6lj_3npa24z-XVBFUXCZWTSu8ZTBy_ZOhnOluSaUqAZMBGE7DJz4GMCEEXkbAVAxPrDkTMYXYduMNA&gsessionid=pvMTr5WilGlEvQ0_94cjUdy9a0RhlIQ6PeiJhkbQt4Btoz-q553LaA"
+        },
+        {
+            "position": 5,
+            "title": "Near Rr Nagar Places To Visit",
+            "link": "https://www.google.com/goto?url=CAESfQHEIkXXOsNmUE8d6foCcklha9n-tSmxGYsm6re5uBJcSL9CEORPnW5L00hr4CP7rqDDcvlsQC9rBW4FMB7D_SBKvdwr16uOuwgmzv9fiRlr6qCzSJ0tIer4nhQDVQK1zH_vl_K7ybo73-NRBB_m8MZKcUNteoyF12QeqzdQ",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHEIkXXAskdsaWzcciIiW06dWNoDkkUzsHWFt_rmKxy4sWpEgKN2x5NTFArOQAnpUsfaOWLLsKy_oZTSJAtQbakeQWHy4CLOeLeBAwzvc8YvzpTZsuSKTXZpBIdPq9W5_3YnLbO_1bTv-SAZlgOABGDVDSD-Kwt93B8N2hq&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECEMQAQ&uoh=1",
+            "displayed_link": "2 likes",
+            "favicon": "https://serpapi.com/searches/6b01437fb77a0a2867b19865/images/fCNBP1OifD7f-mAChu8nh2yXBUhTKlc5bFIPTCPGodk.png",
+            "snippet": "Perfectly designed for corporates & college students, - Just minutes away from RNSIT, JSS & BGS College. Suto Cafe - Near RNSIT College, Channasandra, RR Nagar ...",
+            "snippet_highlighted_words": [
+                "Just minutes away from RNSIT"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Perfectly designed for corporates & college students, - Just minutes away from RNSIT, JSS & BGS College. Suto Cafe - Near RNSIT College, Channasandra, RR Nagar ...",
+                    "source_info_link": "https://www.google.com/goto?url=CAESfQHEIkXXOsNmUE8d6foCcklha9n-tSmxGYsm6re5uBJcSL9CEORPnW5L00hr4CP7rqDDcvlsQC9rBW4FMB7D_SBKvdwr16uOuwgmzv9fiRlr6qCzSJ0tIer4nhQDVQK1zH_vl_K7ybo73-NRBB_m8MZKcUNteoyF12QeqzdQ",
+                    "icon": "https://serpapi.com/searches/6b01437fb77a0a2867b19865/images/fCNBP1OifD7f-mAChu8nh7o6iGp7RDmO3yPQwe2mm1b8hLujbcW29d5qshK2b49N.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWE9zTm1VRThkNmZvQ2NrbGhhOW4tdFNteEdZc202cmU1dUJKY1NMOUNFT1JQblc1TDAwaHI0Q1A3cnFERGN2bHNRQzlyQlc0Rk1CN0RfU0JLdmR3cjE2dU91d2dtenY5ZmlSbHI2cUN6U0owdEllcjRuaFFEVlFLMXpIX3ZsX0s3eWJvNzMtTlJCQl9tOE1aS2NVTnRlb3lGMTJRZXF6ZFESBBoCCAAajgkSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6ggIABAAGAAgACo5CgdzdHVkZW50FUqTDUAaB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FTJ87j8aBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFRCotUAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFQAAAAAaBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFQAAAAAaB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FQAAAAAaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVCxTYPxoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWE9zTm1VRThkNmZvQ2NrbGhhOW4tdFNteEdZc202cmU1dUJKY1NMOUNFT1JQblc1TDAwaHI0Q1A3cnFERGN2bHNRQzlyQlc0Rk1CN0RfU0JLdmR3cjE2dU91d2dtenY5ZmlSbHI2cUN6U0owdEllcjRuaFFEVlFLMXpIX3ZsX0s3eWJvNzMtTlJCQl9tOE1aS2NVTnRlb3lGMTJRZXF6ZFE6KU5lYXIgUnIgTmFnYXIgUGxhY2VzIFRvIFZpc2l0IC0gSW5zdGFncmFtQrcBUGVyZmVjdGx5IGRlc2lnbmVkIGZvciBjb3Jwb3JhdGVzICZhbXA7IGNvbGxlZ2Ugc3R1ZGVudHMsIC0gPGI-SnVzdCBtaW51dGVzIGF3YXkgZnJvbSBSTlNJVDwvYj4sIEpTUyAmYW1wOyBCR1MgQ29sbGVnZS4gU3V0byBDYWZlIC0gTmVhciBSTlNJVCBDb2xsZWdlLCBDaGFubmFzYW5kcmEsIFJSIE5hZ2FyJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWE9zTm1VRThkNmZvQ2NrbGhhOW4tdFNteEdZc202cmU1dUJKY1NMOUNFT1JQblc1TDAwaHI0Q1A3cnFERGN2bHNRQzlyQlc0Rk1CN0RfU0JLdmR3cjE2dU91d2dtenY5ZmlSbHI2cUN6U0owdEllcjRuaFFEVlFLMXpIX3ZsX0s3eWJvNzMtTlJCQl9tOE1aS2NVTnRlb3lGMTJRZXF6ZFESBBoCCAAajgkSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6ggIABAAGAAgACo5CgdzdHVkZW50FUqTDUAaB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FTJ87j8aBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFRCotUAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFQAAAAAaBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFQAAAAAaB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FQAAAAAaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVCxTYPxoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWE9zTm1VRThkNmZvQ2NrbGhhOW4tdFNteEdZc202cmU1dUJKY1NMOUNFT1JQblc1TDAwaHI0Q1A3cnFERGN2bHNRQzlyQlc0Rk1CN0RfU0JLdmR3cjE2dU91d2dtenY5ZmlSbHI2cUN6U0owdEllcjRuaFFEVlFLMXpIX3ZsX0s3eWJvNzMtTlJCQl9tOE1aS2NVTnRlb3lGMTJRZXF6ZFE6KU5lYXIgUnIgTmFnYXIgUGxhY2VzIFRvIFZpc2l0IC0gSW5zdGFncmFtQrcBUGVyZmVjdGx5IGRlc2lnbmVkIGZvciBjb3Jwb3JhdGVzICZhbXA7IGNvbGxlZ2Ugc3R1ZGVudHMsIC0gPGI-SnVzdCBtaW51dGVzIGF3YXkgZnJvbSBSTlNJVDwvYj4sIEpTUyAmYW1wOyBCR1MgQ29sbGVnZS4gU3V0byBDYWZlIC0gTmVhciBSTlNJVCBDb2xsZWdlLCBDaGFubmFzYW5kcmEsIFJSIE5hZ2FyJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "source": "Instagram"
+        },
+        {
+            "position": 6,
+            "title": "R N R Cafe, Rajarajeshwari Nagar, Bangalore",
+            "link": "https://www.google.com/goto?url=CAESiQEBxCJF1-Uz7blJ_f1f7yavgerHaFXbpDxj5dhw3GUGHRyCvPg0kv3Tt0IXUNhktcQRuXXc83V5Z67N5gjXAx1STasogeKfoFi31C-nfPxMGYxjDOWoq_xAUZm-RU31MuTipuNDGR-WhHwz8FaISvSNK3zgz2yUU-KGtk64vJQ-L13ho_CKmgaUCw",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEBxCJF13lOBBfwQs3b_IPdLrKeQK3ub6Sz1zBa6QD2elaGfKrPWl7zdr9PoHTYSav3LoKMpcWeZNegXMBxtCRw-ASDZUBNXwcSYnDiKbPG89ZQuif2z4DWhCiT_1Lg0tyqTFRC1SIrk3-Id1c3wH2HdvJrFBuuhcZKHwN7lgNmQmpDyeqmSMhfaQ&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECEcQAQ&uoh=1",
+            "displayed_link": "https://www.zomato.com › ... › Rajarajeshwari Nagar",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMIC7MIC7KAhvLEiTMGyrJABDqsbTab3bQNkH34uPy0dPTS1TegofuwcP78PH____kmp7ceoDYZGvt5Z2BAAAAAXRSTlNy_u3IdgAAAIRJREFUeAHtT8UBwzAMtGWB-dzsv2s4eZX-rZjBOf8SnPNv4KeTFO4ki1AQYQkbkoiorZK3JMeUc0mZU02WrPVU0WPqhffkwANjRUVDtbp6JWlqtCV914gIXZkxksEgmLpuSWrAyMi1Tyiw3latiu55O4hkPYT2c_i0iEj4iz__SfcmtwAmuQepUtP-GwAAAABJRU5ErkJggg.png",
+            "snippet": "R N R Cafe Restaurant. Bakery, Ice Cream 586, 1st Floor, 4th Stage, 60 Feet Road, Rajarajeshwari Nagar, Bangalore. Average Cost ₹100 for one",
+            "snippet_highlighted_words": [
+                "586, 1st Floor, 4th Stage, 60 Feet Road, Rajarajeshwari Nagar, Bangalore"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 3.8,
+                        "reviews": 12,
+                        "price": 100,
+                        "currency": "₹"
+                    },
+                    "extensions": [
+                        "3.8(12)",
+                        "Price range: ₹100 for one order (approx.)"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "R N R Cafe Restaurant. Bakery, Ice Cream 586, 1st Floor, 4th Stage, 60 Feet Road, Rajarajeshwari Nagar, Bangalore. Average Cost ₹100 for one",
+                    "source_info_link": "https://www.google.com/goto?url=CAESiQEBxCJF1-Uz7blJ_f1f7yavgerHaFXbpDxj5dhw3GUGHRyCvPg0kv3Tt0IXUNhktcQRuXXc83V5Z67N5gjXAx1STasogeKfoFi31C-nfPxMGYxjDOWoq_xAUZm-RU31MuTipuNDGR-WhHwz8FaISvSNK3zgz2yUU-KGtk64vJQ-L13ho_CKmgaUCw",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMIC7MIC7KAhvLEiTMGyrJABDqsbTab3bQNkH34uPy0dPTS1TegofuwcP78PH____kmp7ceoDYZGvt5Z2BAAAAAXRSTlNy_u3IdgAAAIRJREFUeAHtT8UBwzAMtGWB-dzsv2s4eZX-rZjBOf8SnPNv4KeTFO4ki1AQYQkbkoiorZK3JMeUc0mZU02WrPVU0WPqhffkwANjRUVDtbp6JWlqtCV914gIXZkxksEgmLpuSWrAyMi1Tyiw3latiu55O4hkPYT2c_i0iEj4iz__SfcmtwAmuQepUtP-GwAAAABJRU5ErkJggg.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCeENKRjEtVXo3YmxKX2YxZjd5YXZnZXJIYUZYYnBEeGo1ZGh3M0dVR0hSeUN2UGcwa3YzVHQwSVhVTmhrdGNRUnVYWGM4M1Y1WjY3TjVnalhBeDFTVGFzb2dlS2ZvRmkzMUMtbmZQeE1HWXhqRE9Xb3FfeEFVWm0tUlUzMU11VGlwdU5ER1ItV2hId3o4RmFJU3ZTTkszemd6MnlVVS1LR3RrNjR2SlEtTDEzaG9fQ0ttZ2FVQ3cSBBoCCAAalwkSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA8wgIABAAGAAgACo5CgdzdHVkZW50FQAAAAAaB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FZoHLT4aBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFQuHrEAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFQAAAAAaBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFQAAAAAaB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FQAAAAAaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVmXzmPxoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MsgBL2dvdG8_dXJsPUNBRVNpUUVCeENKRjEtVXo3YmxKX2YxZjd5YXZnZXJIYUZYYnBEeGo1ZGh3M0dVR0hSeUN2UGcwa3YzVHQwSVhVTmhrdGNRUnVYWGM4M1Y1WjY3TjVnalhBeDFTVGFzb2dlS2ZvRmkzMUMtbmZQeE1HWXhqRE9Xb3FfeEFVWm0tUlUzMU11VGlwdU5ER1ItV2hId3o4RmFJU3ZTTkszemd6MnlVVS1LR3RrNjR2SlEtTDEzaG9fQ0ttZ2FVQ3c6QlIgTiBSIDxiPkNhZmU8L2I-LCBSYWphcmFqZXNod2FyaSBOYWdhciwgPGI-QmFuZ2Fsb3JlPC9iPiAtIFpvbWF0b0KVAVIgTiBSIENhZmUgUmVzdGF1cmFudC4gQmFrZXJ5LCBJY2UgQ3JlYW0gPGI-NTg2LCAxc3QgRmxvb3IsIDR0aCBTdGFnZSwgNjAgRmVldCBSb2FkLCBSYWphcmFqZXNod2FyaSBOYWdhciwgQmFuZ2Fsb3JlPC9iPi4gQXZlcmFnZSBDb3N0IOKCuTEwMCBmb3Igb25lSgJvZiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCeENKRjEtVXo3YmxKX2YxZjd5YXZnZXJIYUZYYnBEeGo1ZGh3M0dVR0hSeUN2UGcwa3YzVHQwSVhVTmhrdGNRUnVYWGM4M1Y1WjY3TjVnalhBeDFTVGFzb2dlS2ZvRmkzMUMtbmZQeE1HWXhqRE9Xb3FfeEFVWm0tUlUzMU11VGlwdU5ER1ItV2hId3o4RmFJU3ZTTkszemd6MnlVVS1LR3RrNjR2SlEtTDEzaG9fQ0ttZ2FVQ3cSBBoCCAAalwkSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA8wgIABAAGAAgACo5CgdzdHVkZW50FQAAAAAaB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FZoHLT4aBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFQuHrEAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFQAAAAAaBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFQAAAAAaB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FQAAAAAaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVmXzmPxoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MsgBL2dvdG8_dXJsPUNBRVNpUUVCeENKRjEtVXo3YmxKX2YxZjd5YXZnZXJIYUZYYnBEeGo1ZGh3M0dVR0hSeUN2UGcwa3YzVHQwSVhVTmhrdGNRUnVYWGM4M1Y1WjY3TjVnalhBeDFTVGFzb2dlS2ZvRmkzMUMtbmZQeE1HWXhqRE9Xb3FfeEFVWm0tUlUzMU11VGlwdU5ER1ItV2hId3o4RmFJU3ZTTkszemd6MnlVVS1LR3RrNjR2SlEtTDEzaG9fQ0ttZ2FVQ3c6QlIgTiBSIDxiPkNhZmU8L2I-LCBSYWphcmFqZXNod2FyaSBOYWdhciwgPGI-QmFuZ2Fsb3JlPC9iPiAtIFpvbWF0b0KVAVIgTiBSIENhZmUgUmVzdGF1cmFudC4gQmFrZXJ5LCBJY2UgQ3JlYW0gPGI-NTg2LCAxc3QgRmxvb3IsIDR0aCBTdGFnZSwgNjAgRmVldCBSb2FkLCBSYWphcmFqZXNod2FyaSBOYWdhciwgQmFuZ2Fsb3JlPC9iPi4gQXZlcmFnZSBDb3N0IOKCuTEwMCBmb3Igb25lSgJvZiICEAFIAFgAaAA",
+            "source": "Zomato"
+        },
+        {
+            "position": 7,
+            "title": "Best Cafes Rr Nagar",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXbMpYDg4OCf4kZPeu6L1Iaf8tyVwTwSZHH2vjTfwXzW-MpGdpQK1Fdw1pFcrgdjLkk3hHuCd8n-ZhYf3_G7qmh-oyvLBigGG5uGX180R7Hlc83zGUG7X28Zxsu8XGHxXShjQnL8maLe-BPZmrdP4",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXssa-1vhETEUV8IaeodldOwzZ7HQCTl_UG7tdWS7xQHrJhf6hmv-Tm9u9JcMjtpHzQZfL3LNT9qQHSWGSHrOQTAt_4bJiqWCaQIvk_XvZIa8b3lwj8CHil4FBuFtnJ4AO6MflPFOrW9agVYUFp1k&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECEUQAQ&uoh=1",
+            "displayed_link": "https://www.instagram.com › popular › best-cafes-rr-na...",
+            "favicon": "https://serpapi.com/searches/6b01437fb77a0a2867b19865/images/fCNBP1OifD7f-mAChu8nh2ekpXjS_BoFZUmv_q9ODHE.png",
+            "snippet": "\\n\\n Cafe Down The Alley offers comic-themed murals, coffee and masala maggi, plus outdoor seating for study sessions. It stays open late until 12:30am ². Chai ...",
+            "snippet_highlighted_words": [
+                "Cafe Down The Alley"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "\\n\\n Cafe Down The Alley offers comic-themed murals, coffee and masala maggi, plus outdoor seating for study sessions. It stays open late until 12:30am ². Chai ...",
+                    "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXXbMpYDg4OCf4kZPeu6L1Iaf8tyVwTwSZHH2vjTfwXzW-MpGdpQK1Fdw1pFcrgdjLkk3hHuCd8n-ZhYf3_G7qmh-oyvLBigGG5uGX180R7Hlc83zGUG7X28Zxsu8XGHxXShjQnL8maLe-BPZmrdP4",
+                    "icon": "https://serpapi.com/searches/6b01437fb77a0a2867b19865/images/fCNBP1OifD7f-mAChu8nh1uo8ZPFBF9zsOPX1ETG9K9gDh_cwGXos2oAlopN1Chc.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGJNcFlEZzRPQ2Y0a1pQZXU2TDFJYWY4dHlWd1R3U1pISDJ2alRmd1h6Vy1NcEdkcFFLMUZkdzFwRmNyZ2RqTGtrM2hIdUNkOG4tWmhZZjNfRzdxbWgtb3l2TEJpZ0dHNXVHWDE4MFI3SGxjODN6R1VHN1gyOFp4c3U4WEdIeFhTaGpRbkw4bWFMZS1CUFptcmRQNBIEGgIIABr5CBIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQNMICAAQABgAIAAqOQoHc3R1ZGVudBWIH9M9GgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRU0ZylAGgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRXcrJVAGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUOIEQ-GgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRUAAAAAGhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FbhWVD8aCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFhiTXBZRGc0T0NmNGtaUGV1NkwxSWFmOHR5VndUd1NaSEgydmpUZndYelctTXBHZHBRSzFGZHcxcEZjcmdkakxrazNoSHVDZDhuLVpoWWYzX0c3cW1oLW95dkxCaWdHRzV1R1gxODBSN0hsYzgzekdVRzdYMjhaeHN1OFhHSHhYU2hqUW5MOG1hTGUtQlBabXJkUDQ6JkJlc3QgPGI-Q2FmZXM8L2I-IFJyIE5hZ2FyIC0gSW5zdGFncmFtQrABXG5cbiA8Yj5DYWZlIERvd24gVGhlIEFsbGV5PC9iPiBvZmZlcnMgY29taWMtdGhlbWVkIG11cmFscywgY29mZmVlIGFuZCBtYXNhbGEgbWFnZ2ksIHBsdXMgb3V0ZG9vciBzZWF0aW5nIGZvciBzdHVkeSBzZXNzaW9ucy4gSXQgc3RheXMgb3BlbiBsYXRlIHVudGlsIDEyOjMwYW0gwrIuIENoYWkmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGJNcFlEZzRPQ2Y0a1pQZXU2TDFJYWY4dHlWd1R3U1pISDJ2alRmd1h6Vy1NcEdkcFFLMUZkdzFwRmNyZ2RqTGtrM2hIdUNkOG4tWmhZZjNfRzdxbWgtb3l2TEJpZ0dHNXVHWDE4MFI3SGxjODN6R1VHN1gyOFp4c3U4WEdIeFhTaGpRbkw4bWFMZS1CUFptcmRQNBIEGgIIABr5CBIAGgIIASIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQNMICAAQABgAIAAqOQoHc3R1ZGVudBWIH9M9GgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRU0ZylAGgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRXcrJVAGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUOIEQ-GgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRUAAAAAGhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FbhWVD8aCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFhiTXBZRGc0T0NmNGtaUGV1NkwxSWFmOHR5VndUd1NaSEgydmpUZndYelctTXBHZHBRSzFGZHcxcEZjcmdkakxrazNoSHVDZDhuLVpoWWYzX0c3cW1oLW95dkxCaWdHRzV1R1gxODBSN0hsYzgzekdVRzdYMjhaeHN1OFhHSHhYU2hqUW5MOG1hTGUtQlBabXJkUDQ6JkJlc3QgPGI-Q2FmZXM8L2I-IFJyIE5hZ2FyIC0gSW5zdGFncmFtQrABXG5cbiA8Yj5DYWZlIERvd24gVGhlIEFsbGV5PC9iPiBvZmZlcnMgY29taWMtdGhlbWVkIG11cmFscywgY29mZmVlIGFuZCBtYXNhbGEgbWFnZ2ksIHBsdXMgb3V0ZG9vciBzZWF0aW5nIGZvciBzdHVkeSBzZXNzaW9ucy4gSXQgc3RheXMgb3BlbiBsYXRlIHVudGlsIDEyOjMwYW0gwrIuIENoYWkmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+            "source": "Instagram",
+            "read_more_link": "https://www.google.com/goto?url=CAESwgEBxCJF11KejjZMtaJmNyJgUtTSw0xejHz2_U8NjpUvc9t-9y-Nal6hwWWzaPMMohu5rGlyqxXBhXqvQxjj-e7Mjr7lut8VjYTPXcO3rOpgDVdJ0PnDX-ADuYEpIUZBO7NTHaLJ-2QHjXkDFLOuRqSB4c9ARjBRt2wr4kFlQqS6k0U7TbQl8G3wvtB2WOezFc656pMeDfQxcuTC8d7ohxiY2H_vu0JTYqqc88ugjvAUIymDwakgD7cMZ2gL_F5gKXKTow&gsessionid=pvMTr5WilGlEvQ0_94cjUdy9a0RhlIQ6PeiJhkbQt4Btoz-q553LaA"
+        },
+        {
+            "position": 8,
+            "title": "Top 10 Study Cafes in Bangalore for Students & Remote ...",
+            "link": "https://www.google.com/goto?url=CAESmwEBxCJF1_0nV7xNk59tqknctXQcZC8hrn9LNDNSKJi4fkJEWgasUrIU-Bi72INIpfdghXw-TjYQQn18-XrOtjJ0tRZgCLfnhAdBKW5NOOpuPeoK98rOxQ5gr5bAZVy3SeyHoJtBx-KnWx4cp20CA6ypzg58h6zb48_WgMCubl-73j1W9Hlr3t4iUSaywD5Q1GmQVLpdqeQsdizJ-w",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEBxCJF155jgZPfmkRjGObrJIT7JTAqS2qhqFX3CfC7KpKYmALHoxuQKgeqUxTD4cIgViQTPvGOaWJXbO8nVwCiY0tRwJ5_jJ7_FnHauBGmCMRnSh_PtyQOL9lIPe9l3cpLtgTkNQGuFLbSw4xVRtaAi-EEQuGbhyoupY5CrR4PbMJCzPJZekl1fe1N17GCK3V9hoTJzhUyiRf7kg&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECEEQAQ&uoh=1",
+            "displayed_link": "https://www.bangalorebeat.com › post › top-10-study-c...",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEX____Z2dmnp6d0dHRcXFxtbW2bm5vOzs77-_vp6emEhIQAAACMjIxlZWX39_cwMDDd3d0VFRVHRkRcV1KOjYpvaGJ_enb__vmoop24uLjxWgD70b_Py8llX1n-9e71j2OemZQiIiLyZyfyYhzxXw75wKft7e0bEwr-6-HzfEe-wb_9sZP58u12cm795dr0bSz_4dE_OjTxUgD4tZn2pYMZGRnzjIDuAAAA5klEQVR4AY2SBW7AMAwAXWZmZhjz_7-2qBDVGZ7AcEXH8E84XhBFSVZUYNF0gyJx2JkGwrKBYjsGi0udhwWyvvEd-3fxtA5CM6KFsMmzim1ISJmetUaK7MhTgCQvSKM8GibJrT2tSFrneVMDtHunI53jU7lN9sM4gWrszKDtyQKENe_7Pr9Zb_eeAtye-FT2Q353_2AQMiQfN9nnT8_zyyavj33ON1XMwv5Y9EFEjsPlg9CvFK_jW4J-5TKE6T3BQ0DjA3Z8aPAhO_hfjwzsj18O-9c1-X3BCDOzmixcpguSzivwPz4B7XYem1xC1PsAAAAASUVORK5CYII.png",
+            "date": "Jun 27, 2025",
+            "snippet": "Top 10 Study Cafes in Bangalore for Students & Remote Workers · Dialogues Cafe · Cafe Down the Alley · Lahe Lahe · Matteo Coffea · Paper & Pie · State ...",
+            "snippet_highlighted_words": [
+                "Dialogues Cafe"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Top 10 Study Cafes in Bangalore for Students & Remote Workers · Dialogues Cafe · Cafe Down the Alley · Lahe Lahe · Matteo Coffea · Paper & Pie · State ...",
+                    "source_info_link": "https://www.google.com/goto?url=CAESmwEBxCJF1_0nV7xNk59tqknctXQcZC8hrn9LNDNSKJi4fkJEWgasUrIU-Bi72INIpfdghXw-TjYQQn18-XrOtjJ0tRZgCLfnhAdBKW5NOOpuPeoK98rOxQ5gr5bAZVy3SeyHoJtBx-KnWx4cp20CA6ypzg58h6zb48_WgMCubl-73j1W9Hlr3t4iUSaywD5Q1GmQVLpdqeQsdizJ-w",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEX____Z2dmnp6d0dHRcXFxtbW2bm5vOzs77-_vp6emEhIQAAACMjIxlZWX39_cwMDDd3d0VFRVHRkRcV1KOjYpvaGJ_enb__vmoop24uLjxWgD70b_Py8llX1n-9e71j2OemZQiIiLyZyfyYhzxXw75wKft7e0bEwr-6-HzfEe-wb_9sZP58u12cm795dr0bSz_4dE_OjTxUgD4tZn2pYMZGRnzjIDuAAAA5klEQVR4AY2SBW7AMAwAXWZmZhjz_7-2qBDVGZ7AcEXH8E84XhBFSVZUYNF0gyJx2JkGwrKBYjsGi0udhwWyvvEd-3fxtA5CM6KFsMmzim1ISJmetUaK7MhTgCQvSKM8GibJrT2tSFrneVMDtHunI53jU7lN9sM4gWrszKDtyQKENe_7Pr9Zb_eeAtye-FT2Q353_2AQMiQfN9nnT8_zyyavj33ON1XMwv5Y9EFEjsPlg9CvFK_jW4J-5TKE6T3BQ0DjA3Z8aPAhO_hfjwzsj18O-9c1-X3BCDOzmixcpguSzivwPz4B7XYem1xC1PsAAAAASUVORK5CYII.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjFfMG5WN3hOazU5dHFrbmN0WFFjWkM4aHJuOUxORE5TS0ppNGZrSkVXZ2FzVXJJVS1CaTcySU5JcGZkZ2hYdy1UallRUW4xOC1Yck90akowdFJaZ0NMZm5oQWRCS1c1Tk9PcHVQZW9LOThyT3hRNWdyNWJBWlZ5M1NleUhvSnRCeC1Lbld4NGNwMjBDQTZ5cHpnNThoNnpiNDhfV2dNQ3VibC03M2oxVzlIbHIzdDRpVVNheXdENVExR21RVkxwZHFlUXNkaXpKLXcSBBoCCAAaggoSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA3gkIABAAGAAgACo5CgdzdHVkZW50FXXL7z8aB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FRirBUAaBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFUV9cEAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFQAAAAAaBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFQAAAAAaB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FdwMmz4aE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVs38jQBoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjFfMG5WN3hOazU5dHFrbmN0WFFjWkM4aHJuOUxORE5TS0ppNGZrSkVXZ2FzVXJJVS1CaTcySU5JcGZkZ2hYdy1UallRUW4xOC1Yck90akowdFJaZ0NMZm5oQWRCS1c1Tk9PcHVQZW9LOThyT3hRNWdyNWJBWlZ5M1NleUhvSnRCeC1Lbld4NGNwMjBDQTZ5cHpnNThoNnpiNDhfV2dNQ3VibC03M2oxVzlIbHIzdDRpVVNheXdENVExR21RVkxwZHFlUXNkaXpKLXc6UlRvcCAxMCBTdHVkeSA8Yj5DYWZlczwvYj4gaW4gPGI-QmFuZ2Fsb3JlPC9iPiBmb3IgPGI-U3R1ZGVudHM8L2I-ICZhbXA7IFJlbW90ZSAuLi5C2AFUb3AgMTAgU3R1ZHkgQ2FmZXMgaW4gQmFuZ2Fsb3JlIGZvciBTdHVkZW50cyAmYW1wOyBSZW1vdGUgV29ya2VycyAmbWlkZG90OyA8Yj5EaWFsb2d1ZXMgQ2FmZTwvYj4gJm1pZGRvdDsgQ2FmZSBEb3duIHRoZSBBbGxleSAmbWlkZG90OyBMYWhlIExhaGUgJm1pZGRvdDsgTWF0dGVvIENvZmZlYSAmbWlkZG90OyBQYXBlciAmYW1wOyBQaWUgJm1pZGRvdDsgU3RhdGUmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjFfMG5WN3hOazU5dHFrbmN0WFFjWkM4aHJuOUxORE5TS0ppNGZrSkVXZ2FzVXJJVS1CaTcySU5JcGZkZ2hYdy1UallRUW4xOC1Yck90akowdFJaZ0NMZm5oQWRCS1c1Tk9PcHVQZW9LOThyT3hRNWdyNWJBWlZ5M1NleUhvSnRCeC1Lbld4NGNwMjBDQTZ5cHpnNThoNnpiNDhfV2dNQ3VibC03M2oxVzlIbHIzdDRpVVNheXdENVExR21RVkxwZHFlUXNkaXpKLXcSBBoCCAAaggoSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA3gkIABAAGAAgACo5CgdzdHVkZW50FXXL7z8aB2xlYXJuZXIaBXB1cGlsGghzdHVkZW50cxoPc3R1ZGVudGZyaWVuZGx5KiYKCGZyaWVuZGx5FRirBUAaBG5pY2UaD3N0dWRlbnRmcmllbmRseSpuCgRjYWZlFUV9cEAaBmJydW5jaBoFY2FmZXMaBWNhZsOpGgtjb2ZmZWUgc2hvcBoMY29mZmVlIHNob3BzGgxjb2ZmZWUgaG91c2UaC2NvZmZlZWhvdXNlGgpyZXN0YXVyYW50GglpdjtwO2NhZmUqIgoEbmVhchUAAAAAGgZiZXNpZGUaBWNsb3NlGgZuZWFyYnkqGwoDcm5zFQAAAAAaBXJuc2l0GghpdjtwO3JucyqUAQoJaW5zdGl0dXRlFQAAAAAaB2FjYWRlbXkaBmNlbnRlchoHY29sbGVnZRoTZW5naW5lZXJpbmcgY29sbGVnZRoEaW5zdBoIaW5zdGl0dXQaCmluc3RpdHV0ZXMaC2luc3RpdHV0aW9uGgVybnNpdBoGc2Nob29sGhF0ZWNobmljYWwgY29sbGVnZRoIY29sbGVnZXMqCQoCb2YVAAAAACp7Cgp0ZWNobm9sb2d5FdwMmz4aE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBXJuc2l0GgR0ZWNoGgl0ZWNobmljYWwaEXRlY2huaWNhbCBjb2xsZWdlGg10ZWNobm9sb2dpY2FsGgx0ZWNobm9sb2dpZXMaC2VuZ2luZWVyaW5nKooBCgliZW5nYWx1cnUVs38jQBoJYmFuZ2Fsb3JlGgVibG9yZRoUZ2VvOzNiYWUxMDAwMDAwMDAwMDAaFGdlbzszYmFlMzAwMDAwMDAwMDAwGhRnZW87M2JhZTUwMDAwMDAwMDAwMBoUZ2VvOzNiYWU3MDAwMDAwMDAwMDAaDml2O3A7YmVuZ2FsdXJ1MuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjFfMG5WN3hOazU5dHFrbmN0WFFjWkM4aHJuOUxORE5TS0ppNGZrSkVXZ2FzVXJJVS1CaTcySU5JcGZkZ2hYdy1UallRUW4xOC1Yck90akowdFJaZ0NMZm5oQWRCS1c1Tk9PcHVQZW9LOThyT3hRNWdyNWJBWlZ5M1NleUhvSnRCeC1Lbld4NGNwMjBDQTZ5cHpnNThoNnpiNDhfV2dNQ3VibC03M2oxVzlIbHIzdDRpVVNheXdENVExR21RVkxwZHFlUXNkaXpKLXc6UlRvcCAxMCBTdHVkeSA8Yj5DYWZlczwvYj4gaW4gPGI-QmFuZ2Fsb3JlPC9iPiBmb3IgPGI-U3R1ZGVudHM8L2I-ICZhbXA7IFJlbW90ZSAuLi5C2AFUb3AgMTAgU3R1ZHkgQ2FmZXMgaW4gQmFuZ2Fsb3JlIGZvciBTdHVkZW50cyAmYW1wOyBSZW1vdGUgV29ya2VycyAmbWlkZG90OyA8Yj5EaWFsb2d1ZXMgQ2FmZTwvYj4gJm1pZGRvdDsgQ2FmZSBEb3duIHRoZSBBbGxleSAmbWlkZG90OyBMYWhlIExhaGUgJm1pZGRvdDsgTWF0dGVvIENvZmZlYSAmbWlkZG90OyBQYXBlciAmYW1wOyBQaWUgJm1pZGRvdDsgU3RhdGUmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+            "source": "Bangalore Beat",
+            "read_more_link": "https://www.google.com/goto?url=CAES-wIBxCJF16myHpHpT5p-0h-a0ugmB4ep2cKPs897Boy8Al_5eOc8BMALwACEwCI3yHdbpL-4jXwO6XPIca7Ryyafv3PFfDiYyxw5g0AITo_K6f4LzQMbLc9a9RT5oOFoFVPC3jckLSHSzUoa7lNmZuikuIaAndqlAofrJ7vGUtLWEsGLG5yI5QEPSr5P6kI-eYQ7IiJAP_HeXQIXTtvO078abfyQinaO-vmu1iP0LR_GHGoQmj4aiOBEyimlelEHHmVTIQiRORuUqssaexLhMNHFxXxyVVbYKA_QvPzmfFP2KjZa7RScolFWjulebHq8yHEWAvJSmEQ9NzDGAAGnyfk-pR-7Dbh63KMpXu0u1LR-9F87faHiB2PTxfmCJKb1nk2ccmKPmQGEnYtjxXAU7mWxVuEyrURBqi_G4phIR7xiX2TZ2Es_P13CkMqM4zyXDLOC1DBS_GnAQ1cIibPIXHBuS8_wR7X-mF6gBzdXswPBM7Gf-_WajVE7TNGz&gsessionid=pvMTr5WilGlEvQ0_94cjUdy9a0RhlIQ6PeiJhkbQt4Btoz-q553LaA"
+        },
+        {
+            "position": 9,
+            "title": "The Madras Cafe - Rajarajeshwari Nagar - Justdial Jd",
+            "link": "https://www.google.com/goto?url=CAEStwEBxCJF1yXXw7vt8Wqp7b35S509jufEhS_6PX5MHnNLd06KSmdi8r2lUxyEqYhwqZ7yBpghT4AumG_VbRJ7IS-sPar0rnAbXD-BTr41LeUuQFvzhKkpKn_URy9ops3XXY1WyMHguctKW2kcm4NaY6ffpJH7k055mp2zblkR45Let9shfGhVDPU1Ib02IwUUU2wal1co80sylp2IyH4M4G7DugMyjb7lMt0CqhkmPhzbBLuOSmgBeq8",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEBxCJF18DG4Xq3sDwnKdxCkBgpP3FAYwZXj7S-NElOkywDR2pYCiz7f2z4NeHIl9_sgF7x8bWr7euOetQphIS3OZR6iVqjNA86iHffV0g5_ktQb7Kas7PAxeLXi7hQgfBL0F06Ia6a91xn7STZ1ScrqEjHVgO6FWeXmplTqzyvnKk0Qbl8SzsIFZk-lElDYeLqwrIvTwnLJjz7sAIgWQattJYiiI4J8qZKBw0QdJKSUBb-33UiiqA&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QFnoECEQQAQ&uoh=1",
+            "displayed_link": "https://www.justdial.com › ... › The Madras Cafe",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEX9__z_5dHT5fSLvuX_pmf_awL_uYRyq9YMdcD_l0dKnNU8kNH-gBz_iTT_0K28hCtuAAAAWElEQVR4AWNAA4wgQhmIXROARIUBA8NUEGMFjLHDICfyKljELDQ0FMywCeGDMEwDGK5CGSDFTAw7TMMYgVIcXR0qoVOBDPaOdgbXmDkPGBiUFBgYBRiwAACC6Rgw_7hHtwAAAABJRU5ErkJggg.png",
+            "snippet": "The Madras Cafe understands this struggle and offers a stress-free living environment where students can focus on what truly matters - their studies. Rooms are ...",
+            "snippet_highlighted_words": [
+                "offers a stress-free living environment"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.0,
+                        "reviews": 1079
+                    },
+                    "extensions": [
+                        "4.0(1,079)"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Madras Cafe understands this struggle and offers a stress-free living environment where students can focus on what truly matters - their studies. Rooms are ...",
+                    "source_info_link": "https://www.google.com/goto?url=CAEStwEBxCJF1yXXw7vt8Wqp7b35S509jufEhS_6PX5MHnNLd06KSmdi8r2lUxyEqYhwqZ7yBpghT4AumG_VbRJ7IS-sPar0rnAbXD-BTr41LeUuQFvzhKkpKn_URy9ops3XXY1WyMHguctKW2kcm4NaY6ffpJH7k055mp2zblkR45Let9shfGhVDPU1Ib02IwUUU2wal1co80sylp2IyH4M4G7DugMyjb7lMt0CqhkmPhzbBLuOSmgBeq8",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAALVBMVEX9__z_5dHT5fSLvuX_pmf_awL_uYRyq9YMdcD_l0dKnNU8kNH-gBz_iTT_0K28hCtuAAAAWElEQVR4AWNAA4wgQhmIXROARIUBA8NUEGMFjLHDICfyKljELDQ0FMywCeGDMEwDGK5CGSDFTAw7TMMYgVIcXR0qoVOBDPaOdgbXmDkPGBiUFBgYBRiwAACC6Rgw_7hHtwAAAABJRU5ErkJggg.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUCL2dvdG8_dXJsPUNBRVN0d0VCeENKRjF5WFh3N3Z0OFdxcDdiMzVTNTA5anVmRWhTXzZQWDVNSG5OTGQwNktTbWRpOHIybFV4eUVxWWh3cVo3eUJwZ2hUNEF1bUdfVmJSSjdJUy1zUGFyMHJuQWJYRC1CVHI0MUxlVXVRRnZ6aEtrcEtuX1VSeTlvcHMzWFhZMVd5TUhndWN0S1cya2NtNE5hWTZmZnBKSDdrMDU1bXAyemJsa1I0NUxldDlzaGZHaFZEUFUxSWIwMkl3VVVVMndhbDFjbzgwc3lscDJJeUg0TTRHN0R1Z015amI3bE10MENxaGttUGh6YkJMdU9TbWdCZXE4EgQaAggAGucJEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMJCAAQABgAIAAqOQoHc3R1ZGVudBUAAAAAGgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRUAAAAAGgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRWC9o9AGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUAAAAAGgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRU_8RY_GhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FRWnPEAaCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTKFAi9nb3RvP3VybD1DQUVTdHdFQnhDSkYxeVhYdzd2dDhXcXA3YjM1UzUwOWp1ZkVoU182UFg1TUhuTkxkMDZLU21kaThyMmxVeHlFcVlod3FaN3lCcGdoVDRBdW1HX1ZiUko3SVMtc1BhcjBybkFiWEQtQlRyNDFMZVV1UUZ2emhLa3BLbl9VUnk5b3BzM1hYWTFXeU1IZ3VjdEtXMmtjbTROYVk2ZmZwSkg3azA1NW1wMnpibGtSNDVMZXQ5c2hmR2hWRFBVMUliMDJJd1VVVTJ3YWwxY284MHN5bHAySXlINE00RzdEdWdNeWpiN2xNdDBDcWhrbVBoemJCTHVPU21nQmVxODo7VGhlIE1hZHJhcyA8Yj5DYWZlPC9iPiAtIFJhamFyYWplc2h3YXJpIE5hZ2FyIC0gSnVzdGRpYWwgSmRCrwFUaGUgTWFkcmFzIENhZmUgdW5kZXJzdGFuZHMgdGhpcyBzdHJ1Z2dsZSBhbmQgPGI-b2ZmZXJzIGEgc3RyZXNzLWZyZWUgbGl2aW5nIGVudmlyb25tZW50PC9iPiB3aGVyZSBzdHVkZW50cyBjYW4gZm9jdXMgb24gd2hhdCB0cnVseSBtYXR0ZXJzIC0gdGhlaXIgc3R1ZGllcy4gUm9vbXMgYXJlJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUCL2dvdG8_dXJsPUNBRVN0d0VCeENKRjF5WFh3N3Z0OFdxcDdiMzVTNTA5anVmRWhTXzZQWDVNSG5OTGQwNktTbWRpOHIybFV4eUVxWWh3cVo3eUJwZ2hUNEF1bUdfVmJSSjdJUy1zUGFyMHJuQWJYRC1CVHI0MUxlVXVRRnZ6aEtrcEtuX1VSeTlvcHMzWFhZMVd5TUhndWN0S1cya2NtNE5hWTZmZnBKSDdrMDU1bXAyemJsa1I0NUxldDlzaGZHaFZEUFUxSWIwMkl3VVVVMndhbDFjbzgwc3lscDJJeUg0TTRHN0R1Z015amI3bE10MENxaGttUGh6YkJMdU9TbWdCZXE4EgQaAggAGucJEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMJCAAQABgAIAAqOQoHc3R1ZGVudBUAAAAAGgdsZWFybmVyGgVwdXBpbBoIc3R1ZGVudHMaD3N0dWRlbnRmcmllbmRseSomCghmcmllbmRseRUAAAAAGgRuaWNlGg9zdHVkZW50ZnJpZW5kbHkqbgoEY2FmZRWC9o9AGgZicnVuY2gaBWNhZmVzGgVjYWbDqRoLY29mZmVlIHNob3AaDGNvZmZlZSBzaG9wcxoMY29mZmVlIGhvdXNlGgtjb2ZmZWVob3VzZRoKcmVzdGF1cmFudBoJaXY7cDtjYWZlKiIKBG5lYXIVAAAAABoGYmVzaWRlGgVjbG9zZRoGbmVhcmJ5KhsKA3JucxUAAAAAGgVybnNpdBoIaXY7cDtybnMqlAEKCWluc3RpdHV0ZRUAAAAAGgdhY2FkZW15GgZjZW50ZXIaB2NvbGxlZ2UaE2VuZ2luZWVyaW5nIGNvbGxlZ2UaBGluc3QaCGluc3RpdHV0GgppbnN0aXR1dGVzGgtpbnN0aXR1dGlvbhoFcm5zaXQaBnNjaG9vbBoRdGVjaG5pY2FsIGNvbGxlZ2UaCGNvbGxlZ2VzKgkKAm9mFQAAAAAqewoKdGVjaG5vbG9neRU_8RY_GhNlbmdpbmVlcmluZyBjb2xsZWdlGgVybnNpdBoEdGVjaBoJdGVjaG5pY2FsGhF0ZWNobmljYWwgY29sbGVnZRoNdGVjaG5vbG9naWNhbBoMdGVjaG5vbG9naWVzGgtlbmdpbmVlcmluZyqKAQoJYmVuZ2FsdXJ1FRWnPEAaCWJhbmdhbG9yZRoFYmxvcmUaFGdlbzszYmFlMTAwMDAwMDAwMDAwGhRnZW87M2JhZTMwMDAwMDAwMDAwMBoUZ2VvOzNiYWU1MDAwMDAwMDAwMDAaFGdlbzszYmFlNzAwMDAwMDAwMDAwGg5pdjtwO2JlbmdhbHVydTKFAi9nb3RvP3VybD1DQUVTdHdFQnhDSkYxeVhYdzd2dDhXcXA3YjM1UzUwOWp1ZkVoU182UFg1TUhuTkxkMDZLU21kaThyMmxVeHlFcVlod3FaN3lCcGdoVDRBdW1HX1ZiUko3SVMtc1BhcjBybkFiWEQtQlRyNDFMZVV1UUZ2emhLa3BLbl9VUnk5b3BzM1hYWTFXeU1IZ3VjdEtXMmtjbTROYVk2ZmZwSkg3azA1NW1wMnpibGtSNDVMZXQ5c2hmR2hWRFBVMUliMDJJd1VVVTJ3YWwxY284MHN5bHAySXlINE00RzdEdWdNeWpiN2xNdDBDcWhrbVBoemJCTHVPU21nQmVxODo7VGhlIE1hZHJhcyA8Yj5DYWZlPC9iPiAtIFJhamFyYWplc2h3YXJpIE5hZ2FyIC0gSnVzdGRpYWwgSmRCrwFUaGUgTWFkcmFzIENhZmUgdW5kZXJzdGFuZHMgdGhpcyBzdHJ1Z2dsZSBhbmQgPGI-b2ZmZXJzIGEgc3RyZXNzLWZyZWUgbGl2aW5nIGVudmlyb25tZW50PC9iPiB3aGVyZSBzdHVkZW50cyBjYW4gZm9jdXMgb24gd2hhdCB0cnVseSBtYXR0ZXJzIC0gdGhlaXIgc3R1ZGllcy4gUm9vbXMgYXJlJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+            "source": "justdial.com",
+            "read_more_link": "https://www.google.com/goto?url=CAESlAIBxCJF19dETZKLeu1GpqTpcr1lyqD-RgIzUqW2f62qi4_YLRZMY69dDys1gqcBJqDGgqpsctE0Ves0isxn4TAYONTp1XQi15oqdwQvQUjNPqiavZMmQK_Y97sF91lMT7QgyuRCocsVoNhtLDu9i20pvX7IgwjrjO9wa4RmJXTvDx9lN9hLg-V0ntet3P33u6KMWhkmRQCiVqckUYWFy9__xQsxWxZ0Ood1Y38aIOPiTvTA8r0ChZ0vNhG0b73dpQwG13jFzmt7vQVyGdOmShW_TdRArYYDjSha9nrrrWOix0r0vPlv4H1BCL5vcpCkCvUeb4ZGrI_BOqh9kfWqFHe_as0ySm8OHtxA3nTb93XNvm0CJO0&gsessionid=pvMTr5WilGlEvQ0_94cjUdy9a0RhlIQ6PeiJhkbQt4Btoz-q553LaA"
+        }
+    ],
+    "filters": [
+        {
+            "name": "Open now",
+            "parameters": {
+                "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXiCD28uL_LHsLiJE3JL4QQ-OxV9HDh3yRN1Z59LWuDToMw7Yo0TmpBWHH41O2zdKH-_euj4AlirDgBQdGZmVoyOlacPNQVqwfOms1gRhlGhPN0qWsK0GnzVKGho3-oI2R8kqWHWPgl5hSlF7I_bJw6c6jcDIb8ioSay11CBtlIx19qd5zVbfB35MhVlw1cYAEEHTpQHZJLQD6dR-ypr5SBoRwX8nq8hBhf0JlVG0kb21wGPGX",
+                "q": "student-friendly cafe near RNS Institute of Technology, Bengaluru open now"
+            },
+            "link": "https://www.google.com/search?sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru+open+now&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXiCD28uL_LHsLiJE3JL4QQ-OxV9HDh3yRN1Z59LWuDToMw7Yo0TmpBWHH41O2zdKH-_euj4AlirDgBQdGZmVoyOlacPNQVqwfOms1gRhlGhPN0qWsK0GnzVKGho3-oI2R8kqWHWPgl5hSlF7I_bJw6c6jcDIb8ioSay11CBtlIx19qd5zVbfB35MhVlw1cYAEEHTpQHZJLQD6dR-ypr5SBoRwX8nq8hBhf0JlVG0kb21wGPGX&sa=X&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QxKsJKAB6BAgfEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru+open+now&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXiCD28uL_LHsLiJE3JL4QQ-OxV9HDh3yRN1Z59LWuDToMw7Yo0TmpBWHH41O2zdKH-_euj4AlirDgBQdGZmVoyOlacPNQVqwfOms1gRhlGhPN0qWsK0GnzVKGho3-oI2R8kqWHWPgl5hSlF7I_bJw6c6jcDIb8ioSay11CBtlIx19qd5zVbfB35MhVlw1cYAEEHTpQHZJLQD6dR-ypr5SBoRwX8nq8hBhf0JlVG0kb21wGPGX"
+        },
+        {
+            "name": "Top rated",
+            "parameters": {
+                "uds": "AE2AFgbf06ZzDvczg9XBG5Z3qflXN0hqCKP20zEtm03n35eZJOmhdDJdv3NPTAbNi9tS9KTp5lJ4PwySNomhVrDyxdREnsatOaeS8gFA76LrJ4nrXV0flJOMol-R518HG9N6g09fLDtBCB2UaoAkW5A6NeBRbrGi5fwWu3TWrCU21KL3UtGazPiySUmr4IUphMDOj47Clos8Jm7WXE9tqqWFIwAzUWmf7VwYSSM88c5qFAlVwQrkSZZnE6sqTXWUAVsoRoxoJDGi",
+                "q": "top rated student-friendly cafe near RNS Institute of Technology, Bengaluru"
+            },
+            "link": "https://www.google.com/search?sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&q=top+rated+student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXN0hqCKP20zEtm03n35eZJOmhdDJdv3NPTAbNi9tS9KTp5lJ4PwySNomhVrDyxdREnsatOaeS8gFA76LrJ4nrXV0flJOMol-R518HG9N6g09fLDtBCB2UaoAkW5A6NeBRbrGi5fwWu3TWrCU21KL3UtGazPiySUmr4IUphMDOj47Clos8Jm7WXE9tqqWFIwAzUWmf7VwYSSM88c5qFAlVwQrkSZZnE6sqTXWUAVsoRoxoJDGi&sa=X&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4QxKsJKAF6BAggEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=top+rated+student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&uds=AE2AFgbf06ZzDvczg9XBG5Z3qflXN0hqCKP20zEtm03n35eZJOmhdDJdv3NPTAbNi9tS9KTp5lJ4PwySNomhVrDyxdREnsatOaeS8gFA76LrJ4nrXV0flJOMol-R518HG9N6g09fLDtBCB2UaoAkW5A6NeBRbrGi5fwWu3TWrCU21KL3UtGazPiySUmr4IUphMDOj47Clos8Jm7WXE9tqqWFIwAzUWmf7VwYSSM88c5qFAlVwQrkSZZnE6sqTXWUAVsoRoxoJDGi"
+        },
+        {
+            "name": "Price",
+            "options": []
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Cafe near Me",
+            "link": "https://www.google.com/search?sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&q=Cafe+near+Me&sa=X&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q1QJ6BAhlEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cafe+near+Me"
+        },
+        {
+            "block_position": 1,
+            "query": "Cafés in RR Nagar",
+            "link": "https://www.google.com/search?sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&q=Caf%C3%A9s+in+RR+Nagar&sa=X&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q1QJ6BAhkEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Caf%C3%A9s+in+RR+Nagar"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=10&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8NMDegQIWxAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=10&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAE",
+            "3": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=20&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAG",
+            "4": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=30&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAI",
+            "5": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=40&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAK",
+            "6": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=50&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAM",
+            "7": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=60&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAO",
+            "8": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=70&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAQ",
+            "9": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=80&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAS",
+            "10": "https://www.google.com/search?q=student-friendly+cafe+near+RNS+Institute+of+Technology,+Bengaluru&sca_esv=eb953f43518643e3&sxsrf=AKL5yDid_yLsedLn4UFdYREX6j-W1W0bTQ:1795244927938&ei=f0MBa8bwOI_W5NoPm9-WcA&start=90&sa=N&sstk=AYl2yk9jxG46XsQLTyK39Q3WckTCkMBqndOtCnwgtTjrgjZ9Ln5I3H7VxpXKtEg3M-bPjZ9-LBhPsHJEfaUopanv2zTku2mp0mGOsw&ved=2ahUKEwiGrNvBwJiYAxUPK1kFHZuvBQ4Q8tMDegQIWxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=student-friendly+cafe+near+RNS+Institute+of+Technology%2C+Bengaluru&start=90"
+        }
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "search_metadata": {
+        "id": "6b014381261adf914d045f7c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/D-R5-wrX40UIniWVqWIqPq3jUndl1Kiy-BVD3Juu-Hs/6b014381261adf914d045f7c.json",
+        "markdown_endpoint": "https://serpapi.com/searches/D-R5-wrX40UIniWVqWIqPq3jUndl1Kiy-BVD3Juu-Hs/6b014381261adf914d045f7c.md",
+        "created_at": "2026-11-21 07:08:49 UTC",
+        "processed_at": "2026-11-21 07:08:49 UTC",
+        "google_news_url": "https://news.google.com/search?q=student-friendly+cafe",
+        "raw_html_file": "https://serpapi.com/searches/D-R5-wrX40UIniWVqWIqPq3jUndl1Kiy-BVD3Juu-Hs/6b014381261adf914d045f7c.html",
+        "total_time_taken": 1.22
+    },
+    "search_parameters": {
+        "engine": "google_news",
+        "q": "student-friendly cafe"
+    },
+    "news_results": [
+        {
+            "position": 1,
+            "title": "9 best cafés in Seoul perfect for students, prices included",
+            "source": {
+                "name": "Study International",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://studyinternational.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://studyinternational.com/news/best-cafes-in-seoul-for-studying/",
+            "thumbnail": "https://studyinternational.com/wp-content/uploads/2025/12/skorea-lifestyle-27-var-1-768x512.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9PWGxvWVRjNE5IQjVXVjl4VFJERUF4aW1CU2dLTWdrQm9ZWk53YVBBclFF",
+            "date": "09/09/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-09-09T07:00:00Z"
+        },
+        {
+            "position": 2,
+            "title": "The Ultimate Summer Eats Checklist for Kids in Westchester",
+            "source": {
+                "name": "Mommy Poppins",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://mommypoppins.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://mommypoppins.com/westchester-kids/restaurants/summer-eats-treats-kids-westchester",
+            "thumbnail": "https://mommypoppins.com/sites/default/files/styles/image300x250/public/WC-Sweet%20Treats-Ice%20Cream%20Social-dad%20holding%20girls-courtesy%20Ice%20Cream%20Social.jpg?itok=XOmoZbA0",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJYMmQ1TFhVemNHbzBkMU5hVFJETkFSajJBU2dCTWdtVklwQU5tZW1oeXdF",
+            "date": "06/21/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-06-21T07:00:00Z"
+        },
+        {
+            "position": 3,
+            "title": "Our guide to family cafés with children in Paris and the suburbs",
+            "source": {
+                "name": "Sortir à Paris",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sortiraparis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Manon De Sortiraparis"
+                ]
+            },
+            "link": "https://www.sortiraparis.com/en/where-to-eat-in-paris/brunch-cafe-tea-time/guides/39182-the-best-cafes-and-coffee-shops-in-paris-for-family-outings",
+            "thumbnail": "https://cdn.sortiraparis.com/images/80/110873/1189493-la-tribu-de-bebe-nos-photos-c5b54bab-dead-4cd4-90b4-ff30cbc62735.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVaVGRKVG5Jd016ZFdSRlYyVFJEZ0F4aUFCU2dLTWdrQk00eXR4YVN4N2dF",
+            "date": "09/07/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-09-07T07:00:00Z"
+        },
+        {
+            "position": 4,
+            "title": "Cafes in the Greater Boston Area",
+            "source": {
+                "name": "Harvard College",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://college.harvard.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://college.harvard.edu/student-life/student-stories/cafes-greater-boston-area",
+            "thumbnail": "https://college.harvard.edu/sites/default/files/styles/max_800_x_985/public/2024-11/IMG_4723.jpeg.webp?itok=xuhGjXR_",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxOMG95YzFWQlVrcG1UbkEwVFJEX0JCamdBeWdLTWdZQkFJclN3QVE",
+            "date": "12/26/2024, 10:13 PM, +0000 UTC",
+            "iso_date": "2024-12-26T22:13:25Z"
+        },
+        {
+            "position": 5,
+            "title": "9 Kid-Friendly Restaurants in the Twin Cities",
+            "source": {
+                "name": "Eater Twin Cities",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://twincities.eater.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Louis Livingston-Garcia"
+                ]
+            },
+            "link": "https://twincities.eater.com/maps/best-restaurants-kid-friendly-family-minneapolis-st-paul-twin-cities",
+            "thumbnail": "https://platform.twincities.eater.com/wp-content/uploads/sites/19/chorus/uploads/chorus_asset/file/25921371/Cuban_Sandwich_from_Guavas_Cuban_Cafe.jpeg?quality=90&strip=all&crop=0,0.055555555555557,100,99.888888888889",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVRMjlXTUhkck1XdGpla0ZCVFJEQ0F4aXBCU2dLTWdZQkVZaUtPUVE",
+            "date": "12/19/2025, 08:00 AM, +0000 UTC",
+            "iso_date": "2025-12-19T08:00:00Z"
+        },
+        {
+            "position": 6,
+            "title": "Grounds for conversation: Students’ favorite coffee shops near campus",
+            "source": {
+                "name": "Brown Daily Herald",
+                "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.browndailyherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Kate Butts"
+                ]
+            },
+            "link": "https://www.browndailyherald.com/article/grounds-for-conversation-students-favorite-coffee-shops-near-campus-20251208",
+            "thumbnail": "https://snworksceo.imgix.net/bdh/22be4b4a-71e4-4db9-bbf7-6d52a8fe0aee.sized-1000x1000.jpg?format=auto&w=1000&fit=fill&ar=4%3A3&fill=blur&dpr=2",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJVSEpzUlVWS2FGaEtTbkZIVFJEZ0F4aUFCU2dLTWdrTk1JcDRtS2sxVVFF",
+            "date": "12/08/2025, 08:00 AM, +0000 UTC",
+            "iso_date": "2025-12-08T08:00:00Z"
+        },
+        {
+            "position": 7,
+            "title": "The Best Coffee in Newberg, Oregon | George Fox University Blog",
+            "source": {
+                "name": "George Fox University",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.georgefox.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Grace Enyart"
+                ]
+            },
+            "link": "https://www.georgefox.edu/bruin-blog/posts/2026/09/coffee-shop-around-campus/index.html",
+            "thumbnail": "https://www.georgefox.edu/bruin-blog/posts/2026/09/coffee-shop-around-campus/_assets-index/images/chapters-banner.webp",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNlVE5IWkVkaFJHMXVNMVZ3VFJDSUF4aU9CaWdLTWdZUm9JYW1NZ1U",
+            "date": "09/02/2026, 03:42 PM, +0000 UTC",
+            "iso_date": "2026-09-02T15:42:05Z"
+        },
+        {
+            "position": 8,
+            "title": "A (mostly) student-friendly food guide to Greater Boston",
+            "source": {
+                "name": "Boston.com",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.boston.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Katelyn Umholtz"
+                ]
+            },
+            "link": "https://www.boston.com/food/the-dish/2025/09/09/college-students-restaurants-bars/",
+            "thumbnail": "https://bdc2020.o0bc.com/wp-content/uploads/2015/07/trident-768x432.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1Ralp0VEZKcmRXeDZjRlpLVFJDZkF4ampCU2dLTWdZTkFJb21NZ2M",
+            "date": "09/09/2025, 07:00 AM, +0000 UTC",
+            "iso_date": "2025-09-09T07:00:00Z"
+        },
+        {
+            "position": 9,
+            "title": "The rise of cafe culture among Bruins: A new hub for studying and socializing",
+            "source": {
+                "name": "Daily Bruin",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailybruin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Elizabeth Park"
+                ]
+            },
+            "link": "https://dailybruin.com/2025/02/20/the-rise-of-cafe-culture-among-bruins-a-new-hub-for-studying-and-socializing",
+            "thumbnail": "https://wp.dailybruin.com/images/2025/02/quad.cafeculture.B.SP_.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRjWFJ0ZFZKd01UTlZXbUZKVFJERUF4aW5CU2dLTWdZQjRJaVF6QVU",
+            "date": "02/20/2025, 08:00 AM, +0000 UTC",
+            "iso_date": "2025-02-20T08:00:00Z"
+        },
+        {
+            "position": 10,
+            "title": "5 Favorite Restaurants in Downtown Oberlin",
+            "source": {
+                "name": "Oberlin College and Conservatory",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.oberlin.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Aishwarya Krishnaswamy"
+                ]
+            },
+            "link": "https://www.oberlin.edu/blogs/5-favorite-restaurants-downtown-oberlin",
+            "thumbnail": "https://www.oberlin.edu/sites/default/files/content/blogs/aishwarya/slow_train1.png",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROM2R3YzFvMGFGazNPRzFyVFJEM0F4amlCQ2dLTWdZbFVKck5JUWs",
+            "date": "11/29/2021, 08:00 AM, +0000 UTC",
+            "iso_date": "2021-11-29T08:00:00Z"
+        },
+        {
+            "position": 11,
+            "title": "18 Best Study Cafes In Singapore With Free Wi-Fi & Power Sockets",
+            "source": {
+                "name": "Sassy Mama Singapore",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sassymamasg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.sassymamasg.com/family-life-coffices-best-work-friendly-free-wifi-cafes/",
+            "thumbnail": "https://www.sassymamasg.com/wp-content/uploads/2026/06/work-friendly-study-cafes-aifogato.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVUbXcxV0RWR2VYVjFhVzVJVFJEb0F4ajBCQ2dLTWdrUk1JSW1QdU1XaUFJ",
+            "date": "10/01/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-10-01T07:00:00Z"
+        },
+        {
+            "position": 12,
+            "title": "Entre 2 Siestes, a kid-friendly cafe and restaurant with a play area for kids, in the 15th arrondissement.",
+            "source": {
+                "name": "Sortir à Paris",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sortiraparis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.sortiraparis.com/en/where-to-eat-in-paris/restaurant/articles/346158-between-nap-times-a-kid-friendly-cafe-and-restaurant-with-a-play-area-for-children-in-the-15th-arrondissement",
+            "thumbnail": "https://cdn.sortiraparis.com/images/80/114070/1287293-entre-2-siestes-le-restaurant-familial-tres-gourmand-avec-cafe-et-aires-de-jeux-pour-les-enfants-nos-photos.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthVXhDWlhsaWJFOXFiWEZvVFJEZ0F4aUFCU2dLTWdZQmNJckVxZ2M",
+            "date": "06/09/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-06-09T07:00:00Z"
+        },
+        {
+            "position": 13,
+            "title": "Where To Eat In Paris—With Your Kids",
+            "source": {
+                "name": "Forbes",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Jennifer Leigh Parker"
+                ]
+            },
+            "link": "https://www.forbes.com/sites/jenniferleighparker/2026/03/21/where-to-eat-in-paris---with-your-kids/",
+            "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/69be9d7a2c9099a4c3566e24/Saint-James-Paris-hotel-in-the-16th-arrondissement/0x0.jpg?format=jpg&width=960",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFlWGhST1RaM2MyazNWVkpSVFJERkF4aWtCU2dLTWdhTllZb3NKUVk",
+            "date": "03/21/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-03-21T07:00:00Z"
+        },
+        {
+            "position": 14,
+            "title": "Hot Coffee And Happy Kids, These Perth Cafes Are Worth Knowing About",
+            "source": {
+                "name": "Urban List",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.theurbanlist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.theurbanlist.com/perth/a-list/perth-cafes-with-playgrounds",
+            "thumbnail": "https://imgix.theurbanlist.com/content/article/Nourish_and_Feed_best_cafes_playgrounds_2026_hero_article_credit_facebook.png?auto=format%2Ccompress&w=728",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9aRU4yUW5nM1JuZzFZbmxvVFJDMkFSaVZBaWdCTWdrRlFKSlltQ201U0FJ",
+            "date": "06/04/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-06-04T07:00:00Z"
+        },
+        {
+            "position": 15,
+            "title": "The best cafés near LSE campus for a study break",
+            "source": {
+                "name": "LSE Blogs",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blogs.lse.ac.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Maja Lie"
+                ]
+            },
+            "link": "https://blogs.lse.ac.uk/studentsatlse/2022/04/30/top-5-favourite-cafes-near-campus-for-a-study-break/",
+            "thumbnail": "https://blogsmedia.lse.ac.uk/blogs.dir/43/files/2022/03/ED32B870-CFD1-4775-9611-8387BB43C417_1_201_a_Maja-Lie.jpeg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDFiRFk0TlV0eWJXMVdNVzlCVFJDQUJCaldCQ2dLTWdzQkFJQ0tOS00wYkdvc1BR",
+            "date": "04/30/2022, 07:00 AM, +0000 UTC",
+            "iso_date": "2022-04-30T07:00:00Z"
+        },
+        {
+            "position": 16,
+            "title": "Best Cafés for Studying in Waterloo Region",
+            "source": {
+                "name": "University of Waterloo",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://uwaterloo.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://uwaterloo.ca/environment-students-society/blog/best-cafes-studying-waterloo-region",
+            "thumbnail": "https://uwaterloo.ca/environment-students-society/sites/default/files/styles/uw_is_media_small/public/uploads/images/screen-shot-2024-03-13-at-5.48.08-pm.png?itok=tAxV_2Hg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdaRzVIYm5Gd2NEVjNjV1pLVFJESUJCamdBeWdLTWdrQkFJeVVFT3RUakFF",
+            "date": "03/13/2024, 07:00 AM, +0000 UTC",
+            "iso_date": "2024-03-13T07:00:00Z"
+        },
+        {
+            "position": 17,
+            "title": "Espresso Chronicles: With overpriced food and mediocre drinks, Sipp Coffee House fails to satisfy",
+            "source": {
+                "name": "Daily Bruin",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailybruin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Eric Sican"
+                ]
+            },
+            "link": "https://dailybruin.com/2024/09/28/espresso-chronicles-with-overpriced-food-and-mediocre-drinks-sipp-coffee-house-fails-to-satisfy",
+            "thumbnail": "https://wp.dailybruin.com/images/2024/09/espressochronicles.png",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUlabGd3U0VoWWIwUjNObE5FVFJEQUFoakFCeWdLTWdzQlVZb3JzU1NxQ3dyUlBR",
+            "date": "09/28/2024, 07:00 AM, +0000 UTC",
+            "iso_date": "2024-09-28T07:00:00Z"
+        },
+        {
+            "position": 18,
+            "title": "15 Trusty New Orleans Coffee Shops With Free Wifi",
+            "source": {
+                "name": "Eater New Orleans",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nola.eater.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Gwendolyn Knapp",
+                    "Nora McGunnigle"
+                ]
+            },
+            "link": "https://nola.eater.com/maps/best-new-orleans-cafes-wifi",
+            "thumbnail": "https://platform.nola.eater.com/wp-content/uploads/sites/18/chorus/uploads/chorus_asset/file/11273031/11021091_877712005603479_2817447493627986325_n.0.0.0.jpg?quality=90&strip=all&crop=0.31250000000001,0,99.375,100",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhiSFV4ZDI0MFoySnVkaTEzVFJERkF4aWxCU2dLTWdZQmdJNkZ1UVU",
+            "date": "05/01/2017, 03:27 PM, +0000 UTC",
+            "iso_date": "2017-05-01T15:27:24Z"
+        },
+        {
+            "position": 19,
+            "title": "Coworking spaces, cafes, and coffee shops where you can telework in Paris: our top picks",
+            "source": {
+                "name": "Sortir à Paris",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sortiraparis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Manon De Sortiraparis"
+                ]
+            },
+            "link": "https://www.sortiraparis.com/en/where-to-eat-in-paris/brunch-cafe-tea-time/guides/138946-coworking-spaces-paris",
+            "thumbnail": "https://cdn.sortiraparis.com/images/80/106235/1046978-seven-heaven-le-coffee-shop-dog-s-friendly-et-kid-s-friendly-de-paris-11e.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZPV3RrZHpaMlVTMWFRbVJYVFJERUF4aW5CU2dLTWdrSkFZalVLQ1dwaEFJ",
+            "date": "12/31/2025, 08:00 AM, +0000 UTC",
+            "iso_date": "2025-12-31T08:00:00Z"
+        },
+        {
+            "position": 20,
+            "title": "Houston’s 14 Best Coffee Shops For Getting Work Done",
+            "source": {
+                "name": "Eater Houston",
+                "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://houston.eater.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Alex Vickery"
+                ]
+            },
+            "link": "https://houston.eater.com/maps/houston-best-coffee-shops-working-free-wifi",
+            "thumbnail": "https://platform.houston.eater.com/wp-content/uploads/sites/20/chorus/uploads/chorus_asset/file/8607849/siphon_coffee_facebook.jpg?quality=90&strip=all&crop=0%2C5.5555555555556%2C100%2C88.888888888889&w=2400",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFjekJDVDFnMFV6Tk1iRVZZVFJEQ0F4aXFCU2dLTWdZQndvVEZWUU0",
+            "date": "05/31/2017, 07:24 PM, +0000 UTC",
+            "iso_date": "2017-05-31T19:24:03Z"
+        },
+        {
+            "position": 21,
+            "title": "Special-Needs Friendly Cafe Reopens In Woodbridge",
+            "source": {
+                "name": "Patch",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://patch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Carly Baldwin"
+                ]
+            },
+            "link": "https://patch.com/new-jersey/woodbridge/cafe-employs-special-needs-teens-reopens-woodbridge",
+            "thumbnail": "https://patch.com/img/cdn20/users/22870800/20221005/111134/styles/patch_image/public/mayor-macs-cafe-2___05111048064.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1RMVJJTW14NFdtTlRiVmhxVFJEZkF4aUFCU2dLTWdrQkVwajBEQ3VTYVFJ",
+            "date": "10/05/2022, 07:00 AM, +0000 UTC",
+            "iso_date": "2022-10-05T07:00:00Z"
+        },
+        {
+            "position": 22,
+            "title": "A Cafe-Hopper’s Guide to Cosy Cafés: Where Productivity Meets Comfort",
+            "source": {
+                "name": "Cardiff University",
+                "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blogs.cardiff.ac.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://blogs.cardiff.ac.uk/insiders/a-cafe-hoppers-guide-to-cosy-cafes-where-productivity-meets-comfort/",
+            "thumbnail": "https://blogs.cardiff.ac.uk/insiders/wp-content/uploads/sites/523/2024/05/kin-ilq-396x492.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNW1jVk4xTms1WWVHSldaSEEyVFJEc0F4aU1BeWdLTWdzQlFJU0dHdWM3VDFtd0xB",
+            "date": "05/30/2024, 07:00 AM, +0000 UTC",
+            "iso_date": "2024-05-30T07:00:00Z"
+        },
+        {
+            "position": 23,
+            "title": "OP/ED: Uptown Cafe perfect for college students",
+            "source": {
+                "name": "valpotorch.com",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.valpotorch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.valpotorch.com/features/article_e50c92f6-221e-11e3-87ff-0019bb30f31a.html",
+            "thumbnail": "https://bloximages.newyork1.vip.townnews.com/valpotorch.com/content/tncms/assets/v3/editorial/0/8e/08ec3e38-221f-11e3-a3f1-0019bb30f31a/523c8e3539d59.image.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1XV0pCVGxFelZscHhlbGg1VFJEZ0F4aUFCU2dLTWdZTlFwVG9LQWc",
+            "date": "09/20/2013, 07:00 AM, +0000 UTC",
+            "iso_date": "2013-09-20T07:00:00Z"
+        },
+        {
+            "position": 24,
+            "title": "Boise-area kids and family restaurant guide",
+            "source": {
+                "name": "Boise Dev",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://boisedev.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Kara Jackson"
+                ]
+            },
+            "link": "https://boisedev.com/guides/kid-friendly-guide-to-dining-in-the-treasure-valley/",
+            "thumbnail": "https://boisedev.com/wp-content/uploads/2025/02/kid-friendly-guide-to-dining-in-the-treasure-valley-shutterstock-1708241.jpeg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkalJyVm5SNVZtdHFObHBCVFJERUF4aW1CU2dLTWdhUllZYktxQWc",
+            "date": "04/28/2025, 07:00 AM, +0000 UTC",
+            "iso_date": "2025-04-28T07:00:00Z"
+        },
+        {
+            "position": 25,
+            "title": "Kid-friendly Winnipeg coffee shop becomes meeting place for parents",
+            "source": {
+                "name": "CBC",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cbc.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Cameron Maclean"
+                ]
+            },
+            "link": "https://www.cbc.ca/news/canada/manitoba/scout-coffee-tea-kid-friendly-cafe-1.4486576",
+            "thumbnail": "https://i.cbc.ca/ais/1.4486580,1515877381000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3996%2C2247%29%3B",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZXRVJzYlcwM2FFeHdSREZ0VFJDZkF4ampCU2dLTWdrSlFZeW1vbWhGcHdJ",
+            "date": "01/14/2018, 08:00 AM, +0000 UTC",
+            "iso_date": "2018-01-14T08:00:00Z"
+        },
+        {
+            "position": 26,
+            "title": "The Best Kid-Friendly Restaurants in Las Vegas",
+            "source": {
+                "name": "Eater Las Vegas",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vegas.eater.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Emmy Kasten"
+                ]
+            },
+            "link": "https://vegas.eater.com/maps/best-kid-friendly-restaurants-las-vegas",
+            "thumbnail": "https://platform.vegas.eater.com/wp-content/uploads/sites/24/chorus/uploads/chorus_asset/file/25538834/Pancho_s_Tacos.jpg?quality=90&strip=all&crop=0.0078125%2C0%2C99.984375%2C100&w=2400",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVhlWFZ2VG10bFNISkNZMXBxVFJER0F4aWpCU2dLTWdzQkFJcFJPQ1RRWWV0WWtn",
+            "date": "05/01/2017, 03:26 PM, +0000 UTC",
+            "iso_date": "2017-05-01T15:26:30Z"
+        },
+        {
+            "position": 27,
+            "title": "Café study society",
+            "source": {
+                "name": "Varsity Online",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.varsity.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Sophie Weinmann"
+                ]
+            },
+            "link": "https://www.varsity.co.uk/lifestyle/15693",
+            "thumbnail": "https://www.varsity.co.uk/images/dyn/l1aFCL1RVNE/store/600/0/24356.jpeg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdhR3hmU2xCemNFRlJaMmxJVFJEMEFoallCQ2dLTWdrTkFZUW9RdU5yVUFF",
+            "date": "05/26/2018, 07:00 AM, +0000 UTC",
+            "iso_date": "2018-05-26T07:00:00Z"
+        },
+        {
+            "position": 28,
+            "title": "Family-Friendly Restaurants & Places to Eat in DC",
+            "source": {
+                "name": "Washington.org",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://washington.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://washington.org/DC-guide-to/dc-dining-families",
+            "thumbnail": "https://washington.org/sites/default/files/styles/generic_hero_banner_1440_x_600/public/hero_sustainable-restaurants-attractions_outdoor-dining-at-the-wharf_ddc-photo_1600x432.jpg.webp?h=e96492a7&itok=fR0XoOIB",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5iVXBUWmxRdGNraDNVa0p6VFJEbEFoamFCaWdLTWdrQjRJUmowT09nc2dF",
+            "date": "04/29/2016, 02:19 PM, +0000 UTC",
+            "iso_date": "2016-04-29T14:19:41Z"
+        },
+        {
+            "position": 29,
+            "title": "Order a cup and charge up: These Prague cafes are a haven for remote workers",
+            "source": {
+                "name": "Expats.cz",
+                "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.expats.cz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.expats.cz/czech-news/article/get-productive-our-guide-to-prague-s-top-cafes-for-digital-nomads",
+            "thumbnail": "https://www.expats.cz/images/publishing/articles/2023/08/1280_650/photo-via-freepik-by-benzoix-fidjc.webp",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdlVEpEZWxoSFUweGtSVTF2VFJDS0F4aUpCaWdLTWdZNUpKNXhGUW8",
+            "date": "08/07/2023, 07:00 AM, +0000 UTC",
+            "iso_date": "2023-08-07T07:00:00Z"
+        },
+        {
+            "position": 30,
+            "title": "Montreal Cafés that are Perfect for Working",
+            "source": {
+                "name": "Tastet",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://tastet.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://tastet.ca/en/lists/work-friendly-cafes-in-montreal-some-suggestions/",
+            "thumbnail": "https://images.tastet.ca/_/rs:fit:1080:720:false:0/plain/local:///2020/01/cafes-ou-travailler-banc-public.jpg@jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVNR3gwWlROa2NsSmtla0pvVFJERUF4aW1CU2dLTWdrQklZTHYzQ0c0NVFJ",
+            "date": "10/23/2025, 07:00 AM, +0000 UTC",
+            "iso_date": "2025-10-23T07:00:00Z"
+        },
+        {
+            "position": 31,
+            "title": "7 laptop-friendly cafes in Toronto for your next study sesh",
+            "source": {
+                "name": "NOW Toronto",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nowtoronto.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Aliya Karimjee"
+                ]
+            },
+            "link": "https://nowtoronto.com/lifestyle/7-laptop-friendly-cafes-in-toronto-for-your-next-study-sesh/",
+            "thumbnail": "https://nowtoronto.com/wp-content/uploads/2026/02/Midterms-listicle.webp",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJkWEJ5UXpkNVJWSldXVUpOVFJDTEF4aUlCaWdLTWdrSklJYXpMQ1NSRVFF",
+            "date": "02/27/2026, 08:00 AM, +0000 UTC",
+            "iso_date": "2026-02-27T08:00:00Z"
+        },
+        {
+            "position": 32,
+            "title": "10 best cafes and spaces in Budapest for studying and working",
+            "source": {
+                "name": "We Love Budapest",
+                "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://welovebudapest.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://welovebudapest.com/en/toplist/best-cafes-spaces-budapest-study-work/",
+            "thumbnail": "https://kep.index.hu/1/0/6118/61185/611856/61185683_e0498657b8d3aaa85ec0b299398b447f_wm.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jbWx4ZEVoV1oydEdiazFPVFJDX0FoakFCeWdLTWdhQklJUUh1Z1E",
+            "date": "03/27/2025, 07:00 AM, +0000 UTC",
+            "iso_date": "2025-03-27T07:00:00Z"
+        },
+        {
+            "position": 33,
+            "title": "Amazing List Of 50+ Kid-Friendly Cafes & Restaurants With Playgrounds & Play Spaces",
+            "source": {
+                "name": "Little Day Out",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.littledayout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Ee Jia T"
+                ]
+            },
+            "link": "https://www.littledayout.com/amazing-list-kid-friendly-cafes-restaurants-with-playgrounds-play-spaces/",
+            "thumbnail": "https://www.littledayout.com/wp-content/uploads/SBG_fusion-spoon.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9iWFpRTlRKMFkwWTRVVEJHVFJDZkF4aWVCU2dLTWdhQk1KSm9HZ2s",
+            "date": "09/07/2023, 08:45 AM, +0000 UTC",
+            "iso_date": "2023-09-07T08:45:22Z"
+        },
+        {
+            "position": 34,
+            "title": "Durham’s best study cafes",
+            "source": {
+                "name": "Palatinate",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.palatinate.org.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://www.palatinate.org.uk/durhams-best-study-cafes/",
+            "thumbnail": "https://i0.wp.com/www.palatinate.org.uk/wp-content/uploadedImages/Cafe_Map-e1603277928586.png",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDNjekJ5UVUxbFJrTjVORWxhVFJDZkF4amlCU2dLTWdPQk1oSQ",
+            "date": "10/21/2020, 07:00 AM, +0000 UTC",
+            "iso_date": "2020-10-21T07:00:00Z"
+        },
+        {
+            "position": 35,
+            "title": "This Student-Friendly Cafe In Hudson Lane, Delhi Has Rooftop Vibes & Dishes Starting Just ₹129",
+            "source": {
+                "name": "Curly Tales",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://curlytales.com/this-student-friendly-cafe-in-hudson-lane-delhi-has-rooftop-vibes-dishes-starting-just-%E2%82%B9129/",
+            "thumbnail": "https://curlytales.com/wp-content/uploads/2023/02/Third-Culture.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iWGxTZDNrNWRrRnZORjlVVFJDZkF4ampCU2dLTWdhaFk0SnNyUU0",
+            "date": "02/06/2023, 08:00 AM, +0000 UTC",
+            "iso_date": "2023-02-06T08:00:00Z"
+        },
+        {
+            "position": 36,
+            "title": "14 Cafes in Montreal Perfect for Studying and Remote Work",
+            "source": {
+                "name": "RestoMontreal",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.restomontreal.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Chandni Sakhrani"
+                ]
+            },
+            "link": "https://www.restomontreal.ca/article/cafes-in-montreal-perfect-for-studying-and-remote-work/2267/en/",
+            "thumbnail": "https://media.restomontreal.ca/blog/76_2026-09-25-2267_blog.jpeg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhUMEZXVGkwNVltWkxUSFpNVFJDQUJSamdBeWdLTWdtQlVJanpLQ2FaRGdF",
+            "date": "10/01/2026, 07:00 AM, +0000 UTC",
+            "iso_date": "2026-10-01T07:00:00Z"
+        },
+        {
+            "position": 37,
+            "title": "5 Student-Friendly Cafes In Delhi Under ₹500",
+            "source": {
+                "name": "Curly Tales",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://curlytales.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+            },
+            "link": "https://curlytales.com/5-student-friendly-cafes-in-delhi-under-%E2%82%B9500/",
+            "thumbnail": "https://curlytales.com/wp-content/uploads/2022/09/Untitled-design-2022-09-22T175932.435.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUVlJuWW1sNlpFaG9iV3BpVFJDZkF4ampCU2dLTWdZQlVvU2p0Z1E",
+            "date": "09/22/2022, 07:00 AM, +0000 UTC",
+            "iso_date": "2022-09-22T07:00:00Z"
+        },
+        {
+            "position": 38,
+            "title": "Best Student-Friendly Cafes to Visit in Satya Niketan | So Delhi",
+            "source": {
+                "name": "So City",
+                "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://so.city&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Dilli Glutton"
+                ]
+            },
+            "link": "https://so.city/delhi/article/best-of-south-campus-best-student-friendly-cafes-to-visit-in-satya-niketan",
+            "thumbnail": "https://res.cloudinary.com/purnesh/image/upload/v1455192253/student-friendly-cafe-banner-1920-high.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhhVzR5UkV0VVMxZzNVR0ZZVFJDaUF4amRCU2dLTWdZQkFZcG5IUVU",
+            "date": "02/11/2016, 08:00 AM, +0000 UTC",
+            "iso_date": "2016-02-11T08:00:00Z"
+        },
+        {
+            "position": 39,
+            "title": "An ode to The Lost Wanderer: The student-friendly cafe that literally has it all",
+            "source": {
+                "name": "The Tab",
+                "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thetab.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "authors": [
+                    "Hiruni Fernando"
+                ]
+            },
+            "link": "https://thetab.com/2023/05/26/an-ode-to-the-lost-wanderer-the-student-friendly-cafe-that-literally-has-it-all",
+            "thumbnail": "https://cdn.thetab.com/uploads/2023/05/lost-wanderer-new-feat-940x480.jpg",
+            "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxZVXRPY25oM2EwbGFWRWwyVFJDTUF4aUhCaWdLTWdZbG9JeHVQQVk",
+            "date": "05/26/2023, 07:00 AM, +0000 UTC",
+            "iso_date": "2023-05-26T07:00:00Z"
+        }
+    ],
+    "menu_links": [
+        {
+            "title": "U.S.",
+            "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+        },
+        {
+            "title": "World",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Your local news",
+            "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+        },
+        {
+            "title": "Business",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Technology",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Entertainment",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Sports",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Science",
+            "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+        },
+        {
+            "title": "Health",
+            "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+        }
+    ]
+}
