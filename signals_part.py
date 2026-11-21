@@ -1,4 +1,3 @@
-
 """
 PART 2: Market Information - Google Search and Google News
 Owner: Role 2
@@ -16,12 +15,11 @@ from dotenv import load_dotenv
 # Get the project folder path
 BASE_DIR = Path(__file__).resolve().parent
 
-# Load the API key from the .env file
+# Load API key from .env file
 load_dotenv(BASE_DIR / ".env")
-
 API_KEY = os.getenv("SERPAPI_KEY")
 
-# Create a folder to store cached API responses
+# Create cache folder
 CACHE_DIR = BASE_DIR / "cache"
 CACHE_DIR.mkdir(exist_ok=True)
 
@@ -50,7 +48,7 @@ def get_cached_response(engine, query):
 
 
 def save_response(engine, query, response):
-    """Save API response in a JSON file."""
+    """Save API response in JSON format."""
 
     cache_file = get_cache_filename(engine, query)
 
@@ -59,15 +57,15 @@ def save_response(engine, query, response):
 
 
 def search_serpapi(engine, query):
-    """Search SerpApi, using cache first."""
+    """Search SerpApi, checking cache first."""
 
-    # Check cache before making a paid API request
+    # Check cache before making an API request
     cached_response = get_cached_response(engine, query)
 
     if cached_response is not None:
         return cached_response
 
-    # Check API key
+    # Check whether API key exists
     if not API_KEY:
         raise ValueError(
             "SERPAPI_KEY is missing. Check your .env file."
@@ -75,7 +73,7 @@ def search_serpapi(engine, query):
 
     print(f"Fetching {engine} results from SerpApi...")
 
-    # Prepare SerpApi search parameters
+    # Prepare search parameters
     params = {
         "engine": engine,
         "q": query,
@@ -99,7 +97,7 @@ def get_signals(idea, area):
     """
     Collect Google Search and Google News results.
 
-    Returns a list containing:
+    Returns:
     type, title, snippet, source and link.
     """
 
@@ -126,22 +124,15 @@ def get_signals(idea, area):
 
     for result in organic_results[:8]:
 
-        title = result.get("title")
-        link = result.get("link")
-
-        # Skip results without required fields
-        if not title or not link:
-            continue
-
         signals.append({
             "type": "search",
-            "title": title,
+            "title": result.get("title", ""),
             "snippet": result.get("snippet", ""),
             "source": (
                 result.get("source")
                 or result.get("displayed_link", "")
             ),
-            "link": link
+            "link": result.get("link", "")
         })
 
     # Process maximum 5 Google News results
@@ -149,14 +140,7 @@ def get_signals(idea, area):
 
     for result in news_results[:5]:
 
-        title = result.get("title")
-        link = result.get("link")
-
-        # Skip results without required fields
-        if not title or not link:
-            continue
-
-        # Extract source name
+        # Extract news source name
         source_data = result.get("source", "")
 
         if isinstance(source_data, dict):
@@ -166,10 +150,10 @@ def get_signals(idea, area):
 
         signals.append({
             "type": "news",
-            "title": title,
+            "title": result.get("title", ""),
             "snippet": result.get("snippet", ""),
             "source": source,
-            "link": link
+            "link": result.get("link", "")
         })
 
     return signals
@@ -182,11 +166,13 @@ if __name__ == "__main__":
     example_area = "near RNS Institute of Technology, Bengaluru"
 
     try:
+        # Collect market information
         results = get_signals(
             example_idea,
             example_area
         )
 
+        # Display results
         print("\nMARKET INFORMATION RESULTS")
         print("=" * 50)
 
@@ -196,12 +182,19 @@ if __name__ == "__main__":
             ensure_ascii=False
         ))
 
+        # Display total number of results
         print("\nTotal signals collected:", len(results))
-                # Save results in an example JSON file
+
+        # Save example results in JSON file
         example_file = BASE_DIR / "example_signals.json"
 
         with open(example_file, "w", encoding="utf-8") as file:
-            json.dump(results, file, indent=4, ensure_ascii=False)
+            json.dump(
+                results,
+                file,
+                indent=4,
+                ensure_ascii=False
+            )
 
         print("Example JSON file saved successfully!")
 
