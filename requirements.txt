@@ -1,0 +1,4 @@
+streamlit
+google-search-results
+python-dotenv
+# Role 3: add the package for your chosen AI model API here
